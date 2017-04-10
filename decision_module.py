@@ -1,7 +1,5 @@
 import json
-import pprint
 import random
-from collections import OrderedDict
 
 knowledge = []
 
@@ -26,5 +24,3 @@ def read_knowledge():
             knowledge.append({"keys": keys, "responses": responses})
 
 read_knowledge()
-print pprint.pformat(knowledge)
-print generate_response("", ["hanzo","is","bad","please","switch"])

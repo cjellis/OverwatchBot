@@ -24,10 +24,15 @@ def action(comment):
     comment.reply(response)
     print response
 
-
+print "Starting..."
 ow = reddit.subreddit('testingground4bots')
-file = open('')
+print "Connected to Reddit..."
+id_file = open('already_commented.txt', 'r+b')
+for line in id_file:
+    already_commented.add(line.rstrip())
+print "Previous posts populated..."
 for comment in ow.stream.comments():
     if check(comment) and comment.id not in already_commented:
         already_commented.add(comment.id)
+        id_file.write(comment.id+"\n")
         action(comment)
