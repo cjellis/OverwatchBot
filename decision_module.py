@@ -1,5 +1,6 @@
 import json
 import pprint
+import random
 from collections import OrderedDict
 
 knowledge = []
@@ -11,10 +12,9 @@ def generate_response(tokenized_input, input_keywords):
         keywords = value["keys"]
         responses = value["responses"]
         if all(key in input_keywords for key in keywords):
-            # TODO pick response randomly
-            return responses[0]
+            r = random.randint(0, len(responses)-1)
+            return responses[r]
 
-    # TODO generic response/i dont know
     return "I do not know how to answer that"
 
 
@@ -22,7 +22,7 @@ def read_knowledge():
     with open('kb.json', 'r') as kb:
         data = json.load(kb)
         for keywords, responses in data.iteritems():
-            keys = keywords.split(",")
+            keys = keywords.lower().split(",")
             knowledge.append({"keys": keys, "responses": responses})
 
 read_knowledge()
