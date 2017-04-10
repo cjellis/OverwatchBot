@@ -1,0 +1,20 @@
+Things to normalize or find another way to do it and fix keywords:
+
+loot boxes -> loot
+ultimate -> ult
+
+ecopoint: antarctica -> ecopoint
+lijiang tower -> lijiang
+watchpoint: gibraltar -> watchpoint
+route 66 -> 66
+volskaya industries -> volskaya
+king's row -> king's
+temple of anubis -> anubis
+
+mystery heroes -> mystery
+no limits -> limits
+
+soldier: 76 -> soldier
+d.va -> dva
+widow -> widowmaker
+rein -> reinhardt

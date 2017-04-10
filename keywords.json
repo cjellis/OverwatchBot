@@ -3,7 +3,7 @@
   "mccree", 
   "pharah",
   "reaper",
-  "soldier: 76",
+  "soldier",
   "sombra",
   "tracer",
   "bastion",
@@ -12,7 +12,7 @@
   "mei",
   "torbjorn",
   "widowmaker",
-  "d.va",
+  "dva",
   "orisa",
   "reinhardt",
   "roadhog",
@@ -30,20 +30,27 @@
   "hybrid",
   "control",
   "ctf",
+  "1v1",
+  "3v3",
+  "mystery",
+  "limits",
+
+
   "hanamura",
-  "temple of anubis",
-  "volskaya industries",
+  "anubis",
+  "volskaya",
   "dorado",
-  "route 66",
-  "watchpoint: gibraltar",
+  "66",
+  "gibraltar",
   "eichenwalde",
   "hollywood",
-  "king's row",
+  "king's",
   "numbani",
   "ilios",
-  "lijiang tower",
+  "lijiang",
   "nepal",
   "oasis",
+  "ecopoint",
 
 
   "doomfist",
@@ -62,5 +69,6 @@
 
   "epic",
   "rare",
-  "legendary"
+  "legendary",
+  "loot"
 ]
