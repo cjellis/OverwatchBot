@@ -90,12 +90,12 @@
   "widowmaker,emote":[],
   "widowmaker":[],
 
-  "dva,tip,ult":[],
-  "dva,tip,abilities":[],
-  "dva,skin,legendary":[],
-  "dva,tank":[],
-  "dva,emote":[],
-  "dva":[],
+  "dva,tip,ult":["Make sure you time D.Va's ult so that the enemy cannot run away", "D.Va's ult can be used to clear out a point if needed"],
+  "dva,tip,abilities":["Only use defense matrix when you need to so you have it in an emergency!", "Don;t forget about the knockback with the boosters"],
+  "dva,skin,legendary":["I like D.Va's Junebug skin. It is pretty sleek.", "D.Va needs some new unique skins"],
+  "dva,tank":["D.Va is a solid tank, especially with defense matrix", "Although she is a tank, D.Va, can do a lot of damage"],
+  "dva,emote":["The heartbreaker emote is pretty cool", "D.Va needs more out of mech emotes!"],
+  "dva":["Love, D.Va.", "[sigh] AFK.", "Aw, yeah!", "D.Va one, bad guys zero.", "GG!", "Here comes a new challenger!", "Geim-eul hamyeon igyeoyaji.", "Is this easy mode?", "LOL.", "No hacks required.", "Winkyface."],
 
   "orisa,tip,ult":[],
   "orisa,tip,abilities":[],
