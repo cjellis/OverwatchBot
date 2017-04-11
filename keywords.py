@@ -15,7 +15,7 @@ for char, tokenlist in tokens.items():
 	for sentence in tokenlist:
 		lemmatized = [lemmatizer.lemmatize(token) for token in sentence]
 		stop = stopwords.words('english')
-		keywords[char] = [token for token in sentence if token not in stop]
+		keywords[char] = [token for token in lemmatized if token not in stop]
 
 # now count the frequency of each word, 
 # and compute the inverse document frequency
