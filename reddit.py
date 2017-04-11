@@ -1,12 +1,12 @@
 import praw
-import decision_module
+import input_module
 
 reddit = praw.Reddit(
     client_id='',
     client_secret='',
     user_agent='python:chatbot:owchatbot1.0.0 (by /u/OverwatchChatBot)',
-    username='OverwatchChatBot',
-    password='OWChatBot1'
+    username='',
+    password=''
 )
 
 already_commented = set()
@@ -20,7 +20,7 @@ def check(comment):
 
 def action(comment):
     text = comment.body
-    response = decision_module.generate_response("", ["hanzo","bad","switch"])
+    response = input_module.parse(text)
     comment.reply(response)
     print response
 

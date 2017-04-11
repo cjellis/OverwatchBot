@@ -6,7 +6,6 @@ knowledge = []
 
 def generate_response(tokenized_input, input_keywords):
     for value in knowledge:
-        print value
         keywords = value["keys"]
         responses = value["responses"]
         if all(key in input_keywords for key in keywords):
