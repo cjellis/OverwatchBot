@@ -18,3 +18,8 @@ soldier: 76 -> soldier
 d.va -> dva
 widow -> widowmaker
 rein -> reinhardt
+
+
+
+notes:
+maybe make default responses for a character be their voice lines

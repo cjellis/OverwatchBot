@@ -64,6 +64,7 @@
   "dps",
   "healer",
   "support",
+  "defense",
 
 
   "ult",
@@ -77,5 +78,7 @@
   "emote",
 
 
-  "tip"
+  "tip",
+
+  "anchor"
 ]
