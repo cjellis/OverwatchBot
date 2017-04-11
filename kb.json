@@ -146,12 +146,12 @@
   "lucio,emote":[],
   "lucio":[],
 
-  "mercy,tip,ult":[],
-  "mercy,tip,abilities":[],
-  "mercy,skin,legendary":[],
-  "mercy,support":[],
-  "mercy,emote":[],
-  "mercy":[],
+  "mercy,tip,ult":["The best rez is the one that changes the game, not the highest number", "Mercy's ult charges rather quickly, so don't save it for too long"],
+  "mercy,tip,abilities":["Don't forget to use your gun! It is pretty powerful", "There is a toggle setting that may help!"],
+  "mercy,skin,legendary":["The blackwatch skin is amazing", "Gotta love mercy as the devil!"],
+  "mercy,support":["Mercy is one of the best supports and healers", "Mercy can keep a teammate alive through a lot of damage and the a clutch rez can change the game"],
+  "mercy,emote":["Caduceus is definitely Mercy's best emote", "Mercy always sitting on the job!"],
+  "mercy":["I have my eye on you.", "Need a second opinion?", "I'll send you my consultation fee.", "Doctor's orders.", "How barbaric.", "I'm not a miracle worker. Well... Not always.", "On a scale of one to ten, how is your pain?", "Super!", "Take two, and call me in the morning.", "The doctor is in."],
 
   "symmetra,tip,ult":[],
   "symmetra,tip,abilities":[],
