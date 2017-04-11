@@ -56,19 +56,26 @@
   "doomfist",
   "jeff",
   "blizzard",
-
+  "blackwatch",
+  "healing",
 
   "sniper",
   "tank",
   "dps",
   "healer",
+  "support",
 
 
   "ult",
-
+  "abilities",
 
   "epic",
   "rare",
   "legendary",
-  "loot"
+  "loot",
+  "skin",
+  "emote",
+
+
+  "tip"
 ]

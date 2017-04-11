@@ -22,7 +22,7 @@ for char, tokenlist in tokens.items():
 # and compute the inverse document frequency
 # and then done.
 
-res = open("keywords.json", "w")
+res = open("otherkeywords.json", "w")
 res.write(json.dumps(keywords))
 res.close
 
