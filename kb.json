@@ -48,12 +48,22 @@
     "I am the rocket queen."
   ],
 
-  "reaper,tip,ult":[],
-  "reaper,tip,abilities":[],
+  "reaper,tip,ult":[
+    "Reaper's ult does damage in a sphere, look to drop in on groups of enemies from above."  
+  ],
+  "reaper,tip,abilities":[
+    "You don't make any sound while in Wraith Form and can use this to flank, be careful about getting caught out of position!",
+    "Wraith Form removes any debuffs on Reaper",
+    "Shadow Step leaves Reaper very vulnerable, make sure to use it from and to safe spaces."
+  ],
   "reaper,skin,legendary":[],
-  "reaper,attack":[],
+  "reaper,attack":[
+    "Reaper's shotguns deal a ton of damage up close, but that damage falls off quickly with range"
+  ],
   "reaper,emote":[],
-  "reaper":[],
+  "reaper":[
+    "The edge-lord himself."
+  ],
 
   "soldier,tip,ult":[],
   "soldier,tip,abilities":[],
