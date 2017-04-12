@@ -304,10 +304,26 @@
   "symmetra,emote":[],
   "symmetra":[],
 
-  "zenyatta,tip,ult":[],
-  "zenyatta,tip,abilities":[],
+  "zenyatta,tip,ult":[
+    "Zenyatta is completely invulnerable during Transcendence, and the healing on nearby allies will outpace most damage!"
+  ],
+  "zenyatta,tip,abilities":[
+    "Your orbs of Discord and Harmony are incredibly valueable to your team, make sure to have them in use at all times.",
+    "Discord greatly increases the damage your opponents take, putting it on tanks can help your team burst them down quickly."
+  ],
   "zenyatta,skin,legendary":[],
-  "zenyatta,support":[],
+  "zenyatta,support":[
+  ],
   "zenyatta,emote":[],
-  "zenyatta":[]
+  "zenyatta":[
+    "If you do not bend...you break.",
+    "Death is whimsical today.",
+    "Free your mind.",
+    "I dreamt I was a butterfly.",
+    "I think, therefore I am",
+    "Peace and blessings be upon you all.",
+    "Trick or treat?",
+    "Do I think? Do submarines swim?"
+    "
+  ]
 }
