@@ -576,7 +576,18 @@
   "lucio,skin,legendary":[],
   "lucio,support":[],
   "lucio,emote":[],
-  "lucio":[],
+  "lucio":[
+    "Can't stop, won't stop.",
+    "Hit me!"
+    "I'm not hearing that noise."
+    "I'm on top of the world!"
+    "I could do this all day."
+    "Hoo! Jackpot!"
+    "Oh, yeah!"
+    "That's how you get tinnitus." 
+    "Why are you so angry?"
+    "You gotta believe."
+  ],
 
   "mercy,tip,ult":[
     "The best rez is the one that changes the game, not the highest number",
@@ -611,12 +622,37 @@
     "The doctor is in."
   ],
 
-  "symmetra,tip,ult":[],
-  "symmetra,tip,abilities":[],
-  "symmetra,skin,legendary":[],
-  "symmetra,support":[],
-  "symmetra,emote":[],
-  "symmetra":[],
+  "symmetra,tip,ult":[
+    "While her teleporter is amazing, use the shield generator when you need extra defense."
+  ],
+  "symmetra,tip,abilities":[
+    "Use the shield in the direction the enemy will be attacking your team from.",
+    "Place turrets in hidden areas so they don't get immediately shot down"
+  ],
+  "symmetra,skin,legendary":[
+    "Symmetra's Devi skin has cause some controversey in the Hindu community.",
+    "Her punk hairstyle is a fresh new look!"
+  ],
+  "symmetra,support":[
+    "Symmetra's teleporter is helps her team apply pressure on the attack"
+  ],
+  "symmetra,emote":[
+    "Literally only Symmetra dances with dodecahedrons.",
+    "Get (get) that (that) dirt off your shoulder"
+  ],
+  "symmetra":[
+    "The true enemy of humanity is disorder.",
+    "If everyone performs their function, victory is assured.",
+    "Do not deviate from the plan, and victory will be ours.",
+    "I will shape order from chaos.",
+    "Order will be restored.",
+    "A momentary lapse.",
+    "Death is an illusion.",
+    "My work is not complete.",
+    "I will correct my mistakes.",
+    "I will follow my path.",
+    "There is still much to be done."
+  ],
 
   "zenyatta,tip,ult":[
     "Zenyatta is completely invulnerable during Transcendence, and the healing on nearby allies will outpace most damage!"
@@ -627,8 +663,13 @@
   ],
   "zenyatta,skin,legendary":[],
   "zenyatta,support":[
+    "In a pinch, the healing Zenyatta can defend himself with well-placed orb snipes",
+    "Zenyatta is best played in safe locations where he can regenerate his shields."
   ],
-  "zenyatta,emote":[],
+  "zenyatta,emote":[
+    "Peace.",
+    "Clap three times."
+  ],
   "zenyatta":[
     "If you do not bend...you break.",
     "Death is whimsical today.",
