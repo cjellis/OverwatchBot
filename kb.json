@@ -143,10 +143,20 @@
   "hanzo,emote":[],
   "hanzo":[],
 
-  "junkrat,tip,ult":[],
-  "junkrat,tip,abilities":[],
+  "junkrat,tip,ult":[
+    "Your Rip-Tire can climb walls to get behind enemies and surprise them.",
+    "Try to drop your Rip-Tire down on groups of enemies from above",
+    "Your Rip-Tire makes a lot of noise, but will quiet down if it's stationary facing a wall"
+  ],
+  "junkrat,tip,abilities":[
+    "Your mine can be used as a finisher for low health enemies.",
+    "Try finding angles where you can stay safe while still zoning off important areas."
+  ],
   "junkrat,skin,legendary":[],
-  "junkrat,defense":[],
+  "junkrat,defense":[
+    "Junkrat is really great at zoning off whole areas",
+    "A combination of your trap and mine can be deadly for low health enemies trying to flank"
+  ],
   "junkrat,emote":[],
   "junkrat":[],
 
