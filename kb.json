@@ -13,12 +13,40 @@
   "mccree,emote":[],
   "mccree":[],
 
-  "pharah,tip,ult":[],
-  "pharah,tip,abilities":[],
-  "pharah,skin,legendary":[],
-  "pharah,attack":[],
-  "pharah,emote":[],
-  "pharah":[],
+  "pharah,tip,ult":[
+    "Pharah's ult should be combined with another teammate's ult.",
+    "Ulting closer to the ground is better."
+  ],
+  "pharah,tip,abilities":[
+    "Pharah can use knockback against a near wall or the ground to quickly change direction.",
+    "If Pharah feathers her jets she can fly for longer."
+  ],
+  "pharah,skin,legendary":[
+    "The best skin is the Raptorion skin.",
+    "Her Raindancer skin is really cool."
+  ],
+  "pharah,attack":[
+    "A direct rocket hit deals 120 damage.",
+    "Pharah is deadly in the hands of a skilled player."
+  ],
+  "pharah,emote":[
+    "Pharah is serious in most of her emotes.",
+    "I like the cheer emote the most."
+  ],
+  "pharah":[
+    "Aerial superiority achieved.",
+    "Fly like an Egyptian.",
+    "Leave this to a professional.",
+    "Rocket jump? That sounds dangerous.",
+    "Put your security in my hands.",
+    "Flying the friendly skies.",
+    "I've got you on my radar.",
+    "Not a chance.",
+    "Play nice, play Pharah",
+    "Shot down.",
+    "Sorry, but I need to jet.",
+    "I am the rocket queen."
+  ],
 
   "reaper,tip,ult":[],
   "reaper,tip,abilities":[],
@@ -34,19 +62,72 @@
   "soldier,emote":[],
   "soldier":[],
 
-  "sombra,tip,ult":[],
-  "sombra,tip,abilities":[],
-  "sombra,skin,legendary":[],
-  "sombra,attack":[],
-  "sombra,emote":[],
-  "sombra":[],
+  "sombra,tip,ult":[
+    "You can use Sombra's ult to initiate a fight.",
+    "You can use Sombra's ult to disrupt an enemy engadge."
+  ],
+  "sombra,tip,abilities":[
+    "Hacking medkits increases your ult charge.",
+    "When a teammate uses Sombra's hacked medkit her ult charge increases."
+  ],
+  "sombra,skin,legendary":[
+    "Her Azucar skin reminds me of day of the dead.",
+    "Her Cyberspace skin is the best skin."
+  ],
+  "sombra,attack":[
+    "Sombra has lower DPS but can be very annoying for the other team.",
+    "Sombra should always be in the enemy team's back lines."
+  ],
+  "sombra,emote":[
+    "Sombra's amused emote is funny.",
+    "Of course Sombra would applaud herself."
+  ],
+  "sombra":[
+    "Boop!",
+    "Hack the planet.",
+    "I think you're in over your head.",
+    "Where's the fun in playing fair.",
+    "De pelos!",
+    "Did you mean to do that?",
+    "You're just a glitch in the system.",
+    "Just squishing a bug.",
+    "Mess with the best and die like the rest.",
+    "You're taking this very seriously."
+  ],
 
-  "tracer,tip,ult":[],
-  "tracer,tip,abilities":[],
-  "tracer,skin,legendary":[],
-  "tracer,attack":[],
-  "tracer,emote":[],
-  "tracer":[],
+  "tracer,tip,ult":[
+    "Tracer's ult does a lot of damage if you stick it on your target.",
+    "Tracer's ult charges quickly."
+  ],
+  "tracer,tip,abilities":[
+    "Use recall to get out of sticky situations.",
+    "Use dash to confuse and disorient the enemy."
+  ],
+  "tracer,skin,legendary":[
+    "Tracer has a ton of legendary skins.",
+    "Tracer's racer skins are the best."
+  ],
+  "tracer,attack":[
+    "Tracer should always be in the enemy's back line.",
+    "Tracer can be very annoying to the enemy team's supports."
+  ],
+  "tracer,emote":[
+    "Tracer has silly emotes.",
+    "Tracer's spin emote is the best emote."
+  ],
+  "tracer":[
+    "Check me out!",
+    "Cheer's love! The calvary's here!",
+    "Ever get that feeling of deja vu?",
+    "Keep calm and Tracer on.",
+    "The world could always use more heroes.",
+    "You got it.",
+    "Aw, rubbish.",
+    "Be right back.",
+    "She shoots, she scores.",
+    "I have this under control.",
+    "Looks like you need a time out."
+  ],
 
   "bastion,tip,ult":[],
   "bastion,tip,abilities":[],
@@ -125,12 +206,38 @@
   "winston,emote":["I don't know if peanut butter or monkey business is a better emote", "That roar is pretty scary"],
   "winston":["Curious.", "Excuse me.", "Don't get me angry.", "How embarrassing!", "No, I do not want a banana.", "Natural selection!", "No monkey business.", "Did someone say peanut butter?", "Sorry about that!", "The power of science!", "Houston, uhh, we have a problem."],
 
-  "zarya,tip,ult":[],
-  "zarya,tip,abilities":[],
-  "zarya,skin,legendary":[],
-  "zarya,tank":[],
-  "zarya,emote":[],
-  "zarya":[],
+  "zarya,tip,ult":[
+    "If you use Zarya's ult near an edge you can drop enemies when the ult ends.",
+    "You can stop a last second objective run by using Zarya's ult."
+  ],
+  "zarya,tip,abilities":[
+    "Use Zarya's shield to protect teammates that are about to take heavy damage.",
+    "You can use Zarya's shield to reset Mei's freeze on an enemy before they get frozen."
+  ],
+  "zarya,skin,legendary":[
+    "Zarya's Summer Games skins are cool.",
+    "Zarya's Champion skin is the best skin."
+  ],
+  "zarya,tank":[
+    "Zarya's has 200 shield that she can regenerate after not being hit for a few seconds.",
+    "Even though Zarya's a tank she can get focused down quickly if both her health bar shield and her shield ability isn't up."
+  ],
+  "zarya,emote":[
+    "I wonder what's in the Mystery Gift.",
+    "Zarya's gun looks heavy."
+  ],
+  "zarya":[
+    "Get down, give me 20.",
+    "I can bench more than you.",
+    "In Russia, game plays you.",
+    "I want to hug you like big fuzzy Siberian bear.",
+    "Strong as the mountain.",
+    "Welcome to the gun show.",
+    "I am mother Russia.",
+    "I will break you.",
+    "Are you in need of personal training?",
+    "No mercy."
+  ],
 
   "ana,tip,ult":[],
   "ana,tip,abilities":[],
