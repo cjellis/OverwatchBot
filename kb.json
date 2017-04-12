@@ -1,17 +1,43 @@
 {
-  "genji,tip,ult":[],
-  "genji,tip,abilities":[],
-  "genji,skin,legendary":[],
-  "genji,attack":[],
+  "genji,tip,ult":[
+    "Initiate your ult from a distance and Swift Strike in after."
+  ],
+  "genji,tip,abilities":[
+    "When you use Deflect, make sure no enemies are behind you.",
+    "Some abilities can't be blocked by Deflect.",
+    "Use the primary Shuriken fire when at a distance, and the secondary fire in close quarters.",
+    "Target low health enemies to refresh your Swift Strike"
+  ],
+  "genji,skin,legendary":[
+    "The Oni legendary skin features a devil mask and a red and black aesthetic."
+  ],
+  "genji,attack":[
+    "I just found out today that genji has a right click/ alternate fire lol",
+
+  ],
   "genji,emote":[],
   "genji":[],
 
-  "mccree,tip,ult":[],
-  "mccree,tip,abilities":[],
-  "mccree,skin,legendary":[],
-  "mccree,attack":[],
+  "mccree,tip,ult":[
+    "Use your ult and walk into a Symmetra teleporter to surprise your enemies."
+  ],
+  "mccree,tip,abilities":[
+    "Fan the hammer when you are close to your enemy",
+    "Use your stun grenade and then fan the hammer!"
+  ],
+  "mccree,skin,legendary":[
+    "I really wish they'd give McCree a new legendary.  Him, Hanzao, and Symmetra are the only original characters that haven't received a 5th legendary.",
+    "I'd pay 6000 Competitive Points for Assless Chaps McCree."
+  ],
+  "mccree,attack":[
+    "Bad positioning with 76 can be fixed with his movement ability and self-sustain (to a degree).  Bad positioning with McCree is usually game over for you.",
+  ],
   "mccree,emote":[],
-  "mccree":[],
+  "mccree":[
+    "*chants* BUFF MCCREE! BUFF MCCREE!",
+    "So what we want is *pantsless* McCree...",
+    "###Hey McCree, what time is it?"
+  ],
 
   "pharah,tip,ult":[
     "Pharah's ult should be combined with another teammate's ult.",
@@ -188,11 +214,20 @@
   ],
 
   "mei,tip,ult":[],
-  "mei,tip,abilities":[],
+  "mei,tip,abilities":[
+    "Freeze your enemy with your primary fire, then walk up and headshot them with your secondary fire!"
+  ],
   "mei,skin,legendary":[],
-  "mei,defense":[],
+  "mei,defense":[
+  
+  ],
   "mei,emote":[],
-  "mei":[],
+  "mei":[
+    "In short Mei is Bae.",
+    "Who's ready for that Mei buff?",
+    "You deserved it for being Mei.",
+    "I thought only bae was Mei.",
+  ],
 
   "torbjorn,tip,ult":[],
   "torbjorn,tip,abilities":[],
