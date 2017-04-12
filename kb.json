@@ -118,12 +118,12 @@
   "roadhog,emote":["Headbanging is by far the best emote", "Boo!"],
   "roadhog":["Welcome to the apocalypse.", "Like takin' candy from a baby.", "Got something to say?", "Ha ha ha!", "Hook, line, and sinker!", "Life is pain, so is death.", "Piece of cake.", "Push off.", "Say bacon one more time.", "Violence is usually the answer.", "We're all animals."],
 
-  "winston,tip,ult":[],
-  "winston,tip,abilities":[],
-  "winston,skin,legendary":[],
-  "winston,tank":[],
-  "winston,emote":[],
-  "winston":[],
+  "winston,tip,ult":["Winston's ult can be hard to use properly, but using the knockback can be helpful", "Enemies in an enclosed space are a good target for Winston's ult"],
+  "winston,tip,abilities":["Winston's shield is strong and can protect a number of players at once", "Winston's jump can be very useful for engaging or disengaging from a fight"],
+  "winston,skin,legendary":["Undersea Winston is a pretty cool skin", "No skin compares to Winston's Yeti skin"],
+  "winston,tank":["Winston is a strong tank who can also do some damage", "Winston's abilities make him a strong tank for dive comps"],
+  "winston,emote":["I don't know if peanut butter or monkey business is a better emote", "That roar is pretty scary"],
+  "winston":["Curious.", "Excuse me.", "Don't get me angry.", "How embarrassing!", "No, I do not want a banana.", "Natural selection!", "No monkey business.", "Did someone say peanut butter?", "Sorry about that!", "The power of science!", "Houston, uhh, we have a problem."],
 
   "zarya,tip,ult":[],
   "zarya,tip,abilities":[],
