@@ -374,19 +374,71 @@
     "You have to let it go."
   ],
 
-  "torbjorn,tip,ult":[],
-  "torbjorn,tip,abilities":[],
-  "torbjorn,skin,legendary":[],
-  "torbjorn,defense":[],
-  "torbjorn,emote":[],
-  "torbjorn":[],
+  "torbjorn,tip,ult":[
+    "Use your ult when a lot of enemies arrive!",
+    "Use your ult when you're about to die!"
+  ],
+  "torbjorn,tip,abilities":[
+    "Use armor at all times, and collect scrap whenever it's safe to do so!",
+    "Try and have a turret up at all times!"
+  ],
+  "torbjorn,skin,legendary":[
+    "Chopper Torb looks like he should be a motorcycle.",
+    "Barbarossa reminds me of Pirates of the Caribbean"
+  ],
+  "torbjorn,defense":[
+    "Torb's turrets are unmatched",
+    "Torbjorn's armor is clutch"
+  ],
+  "torbjorn,emote":[
+    "Dance, Torb, you happy engineering man!",
+    "If Torbjorn gets mad, he'll spew fire!"
+  ],
+  "torbjorn":[
+    "You're making a chicken out of a feather.",
+    "Completion date? *chuckles* When it's done.",
+    "Don't get caught with your beard in the letter box.",
+    "People always underestimate the engineers.",
+    "I'm giving it all I've got!",
+    "For the last time, I'm Swedish!",
+    "Leave this to an expert.",
+    "Let's not buy the pig while it's still in the bag.",
+    "Some assembly required.",
+    "*laughs* Working as intended."
+  ],
 
-  "widowmaker,tip,ult":[],
-  "widowmaker,tip,abilities":[],
-  "widowmaker,skin,legendary":[],
-  "widowmaker,defense":[],
-  "widowmaker,emote":[],
-  "widowmaker":[],
+  "widowmaker,tip,ult":[
+    "Reveal your enemy locations with your ult.",
+    "Use your ult when the enemy is waiting behind walls"
+  ],
+  "widowmaker,tip,abilities":[
+    "Fire venom mines in hidden places so it doesn't get shot",
+    "Use your grappling device to fly all over the place!"
+  ],
+  "widowmaker,skin,legendary":[
+    "Comtesse is obviously the best Widowmaker skin",
+    "Odile is a pretty cool Widow skin"
+  ],
+  "widowmaker,defense":[
+    "Widow is great on maps where she has a height advantage",
+    "Widow can fly to just about anywhere instantly to save the day with a headshot"
+  ],
+  "widowmaker,emote":[
+    "It's gotta be hard to fire upside down",
+    "Oh, hello Spiderman."
+  ],
+  "widowmaker":[
+    "Encore?",
+    "Let them eat cake.",
+    "Cherchez la femme.",
+    "Magnifique.",
+    "Une balle, un mort.",
+    "Ouh là là.",
+    "\"Step into my parlor.\" said the spider to the fly.",
+    "Et c'est comme ça.",
+    "À la vie, à la mort.",
+    "What's an aimbot?"
+  ],
 
   "dva,tip,ult":[
     "Make sure you time D.Va's ult so that the enemy cannot run away",
@@ -422,12 +474,38 @@
     "Winkyface."
   ],
 
-  "orisa,tip,ult":[],
-  "orisa,tip,abilities":[],
-  "orisa,skin,legendary":[],
-  "orisa,tank":[],
-  "orisa,emote":[],
-  "orisa":[],
+  "orisa,tip,ult":[
+    "Combine Orisa's ult with other ults for a super deluxe combo!",
+    "Supercharger is a very strong ult"
+  ],
+  "orisa,tip,abilities":[
+    "Fire a shield to block damage whenever you are being shot at!",
+    "Fire a charge where you think an enemy will be with Halt! and activate it."
+  ],
+  "orisa,skin,legendary":[
+    "The Null Sector skin is literally the coolest thing I've ever seen in my entire life",
+    "The Protector skin is literally the second coolest thing I've ever seen in my entire life"
+  ],
+  "orisa,tank":[
+    "Orisa barrier is in. Reinhardt barrier is out.",
+    "Can't go wrong with 200 health and 200 armor, I'll tell you what."
+  ],
+  "orisa,emote":[
+    "HALT! ...Okay go ahead",
+    "Orisa kicks dirt like a dog..."
+  ],
+  "orisa":[
+    "Current outlook? Uncertain. / Current outlook? Concerning. / Current outlook... optimal. / Current outlook... negative." 
+    "Do you need a hug?"
+    "Efi will not be happy about this."
+    "Error 404: Sarcasm module not found."
+    "I'm sorry, but I can't do that."
+    "Medical assistance has been requested."
+    "Would you like my analysis of the situation?"
+    "No parking."
+    "Shine your eyes."
+    "That does not compute."
+  ],
 
   "reinhardt,tank,anchor": [
     "It is really a toss up of who is the better anchor tank.",
@@ -564,18 +642,53 @@
     "No mercy."
   ],
 
-  "ana,tip,ult":[],
-  "ana,tip,abilities":[],
-  "ana,skin,legendary":[],
-  "ana,support":[],
-  "ana,emote":[],
-  "ana":[],
+  "ana,tip,ult":[
+    "Stack your ult with another strong one for a super ultra attack."
+  ],
+  "ana,tip,abilities":[
+    "If the enemy is asleep, they won't notice when you shoot them in the head!",
+    "Ana's grenade is like a better Jarate."
+  ],
+  "ana,skin,legendary":[
+    "I love her Wadjet skin."
+    "Captain Amari, at your service."
+  ],
+  "ana,support":[
+    "Her needle-firing gun can fire in spurts!",
+    "If she shoots ya, it can heal or hurt!"
+  ],
+  "ana,emote":[
+    "<Look of disapproval>",
+    "Tea is a good choice for a sniper."
+  ],
+  "ana":[
+    "Children, behave."
+    "Everyone dies."
+    "It takes a woman to know it."
+    "Al-aʻdālah nāzlah min fūq."
+    "Mother knows best."
+    "No scope needed."
+    "Need someone to tuck you in?"
+    "What are you thinking?"
+    "Witness me."
+    "You know nothing."
+  ],
 
-  "lucio,tip,ult":[],
-  "lucio,tip,abilities":[],
+  "lucio,tip,ult":[
+    "Use your ult in a last minute push at the end of a payload run.",
+    "Try ulting to defend the payload in the final seconds!"
+  ],
+  "lucio,tip,abilities":[
+    "Use your secondary fire creatively to send your opponents off the map!",
+    "Alternate healing and speed carefully based on the situation."
+  ],
   "lucio,skin,legendary":[],
-  "lucio,support":[],
-  "lucio,emote":[],
+  "lucio,support":[
+    "Keep moving and stay around your enemies to heal them."
+  ],
+  "lucio,emote":[
+    "How does Lucio not get dizzy when he spins on his head like that?"
+  ],
   "lucio":[
     "Can't stop, won't stop.",
     "Hit me!"
