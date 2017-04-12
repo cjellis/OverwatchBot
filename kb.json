@@ -62,7 +62,16 @@
   ],
   "reaper,emote":[],
   "reaper":[
-    "The edge-lord himself."
+    "Dead man walking.",
+    "Give me a break.",
+    "Haven't I killed you somewhere before?",
+    "What're you looking at?",
+    "I'm back in black.",
+    "If it live, I can kill it.",
+    "Next.",
+    "I'm not a psychopath, I'm a high functioning psychopath.",
+    "Too easy.",
+    "It's in the refrigerator."
   ],
 
   "soldier,tip,ult":[],
@@ -168,7 +177,15 @@
     "A combination of your trap and mine can be deadly for low health enemies trying to flank"
   ],
   "junkrat,emote":[],
-  "junkrat":[],
+  "junkrat":[
+    "Tick-Tock-Tick-Tock-Tick-Tock!",
+    "Everything's coming up explodey!",
+    "If at first you don't succeed... Blow it up again!",
+    "It's the little things.",
+    "Takes a lickin', keeps on tickin'!",
+    "I'm on fire! Well... more than usual",
+    "Why so serious"
+  ],
 
   "mei,tip,ult":[],
   "mei,tip,abilities":[],
