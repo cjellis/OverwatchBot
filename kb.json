@@ -236,8 +236,14 @@
     "Looks like you need a time out."
   ],
 
-  "bastion,tip,ult":[],
-  "bastion,tip,abilities":[],
+  "bastion,tip,ult":[
+    "Bastion's ult can be difficult to master, but does quite a bit of damage",
+    "Try to use Bastion's ult when you have the enemy team grouped"
+  ],
+  "bastion,tip,abilities":[
+    "Don't forget bastion can heal himself with alt fire, making him a very strong defense character",
+    "It is often better to stay in recon mode instead of trying to change to sentry mode when being attacked"
+  ],
   "bastion,skin,legendary":[],
   "bastion,defense":[],
   "bastion,emote":[],
@@ -305,12 +311,39 @@
   "widowmaker,emote":[],
   "widowmaker":[],
 
-  "dva,tip,ult":["Make sure you time D.Va's ult so that the enemy cannot run away", "D.Va's ult can be used to clear out a point if needed"],
-  "dva,tip,abilities":["Only use defense matrix when you need to so you have it in an emergency!", "Don;t forget about the knockback with the boosters"],
-  "dva,skin,legendary":["I like D.Va's Junebug skin. It is pretty sleek.", "D.Va needs some new unique skins"],
-  "dva,tank":["D.Va is a solid tank, especially with defense matrix", "Although she is a tank, D.Va, can do a lot of damage"],
-  "dva,emote":["The heartbreaker emote is pretty cool", "D.Va needs more out of mech emotes!"],
-  "dva":["Love, D.Va.", "[sigh] AFK.", "Aw, yeah!", "D.Va one, bad guys zero.", "GG!", "Here comes a new challenger!", "Geim-eul hamyeon igyeoyaji.", "Is this easy mode?", "LOL.", "No hacks required.", "Winkyface."],
+  "dva,tip,ult":[
+    "Make sure you time D.Va's ult so that the enemy cannot run away",
+    "D.Va's ult can be used to clear out a point if needed"
+  ],
+  "dva,tip,abilities":[
+    "Only use defense matrix when you need to so you have it in an emergency!",
+    "Don;t forget about the knockback with the boosters"
+  ],
+  "dva,skin,legendary":[
+    "I like D.Va's Junebug skin. It is pretty sleek.",
+    "D.Va needs some new unique skins"
+  ],
+  "dva,tank":[
+    "D.Va is a solid tank, especially with defense matrix",
+    "Although she is a tank, D.Va, can do a lot of damage"
+  ],
+  "dva,emote":[
+    "The heartbreaker emote is pretty cool",
+    "D.Va needs more out of mech emotes!"
+  ],
+  "dva":[
+    "Love, D.Va.",
+    "[sigh] AFK.",
+    "Aw, yeah!",
+    "D.Va one, bad guys zero.",
+    "GG!",
+    "Here comes a new challenger!",
+    "Geim-eul hamyeon igyeoyaji.",
+    "Is this easy mode?",
+    "LOL.",
+    "No hacks required.",
+    "Winkyface."
+  ],
 
   "orisa,tip,ult":[],
   "orisa,tip,abilities":[],
@@ -319,26 +352,107 @@
   "orisa,emote":[],
   "orisa":[],
 
-  "reinhardt,tank,anchor": ["It is really a toss up of who is the better anchor tank.", "Reinhardt is still one of the best tanks in the game even with Orisa"],
-  "reinhardt,tip,ult": ["Make sure your team knows when you are going to use it!", "Reinhardt has a strong ultimate if you can time it well and get a group of enemies."],
-  "reinhardt,tip,abilities": ["Use your shield to protect your healers!", "Firestrike whenever possible"],
-  "reinhardt,skin,legendary": ["Reinhardt has some sick legendary skins", "The blackwatch skin is sick"],
-  "reinhardt,emote":["I love the flex emote.", "Nothing beats pumpkin smash!"],
-  "reinhardt":["I salute you", "Are you afraid to fight me?", "Bring me another!", "Catch phrase!", "Crusader online!", "I am the ultimate crushing machine!", "Precision German engineering.", "Honor... and GLORY!", "Respect your elders.", "Let me show you how it's done.", "Ah, this old dog still knows a few tricks!"],
+  "reinhardt,tank,anchor": [
+    "It is really a toss up of who is the better anchor tank.",
+    "Reinhardt is still one of the best tanks in the game even with Orisa"
+  ],
+  "reinhardt,tip,ult": [
+    "Make sure your team knows when you are going to use it!",
+    "Reinhardt has a strong ultimate if you can time it well and get a group of enemies."
+  ],
+  "reinhardt,tip,abilities": [
+    "Use your shield to protect your healers!",
+    "Firestrike whenever possible"
+  ],
+  "reinhardt,skin,legendary": [
+    "Reinhardt has some sick legendary skins",
+    "The blackwatch skin is sick"
+  ],
+  "reinhardt,emote":[
+    "I love the flex emote.",
+    "Nothing beats pumpkin smash!"
+  ],
+  "reinhardt":[
+    "I salute you",
+    "Are you afraid to fight me?",
+    "Bring me another!",
+    "Catch phrase!",
+    "Crusader online!",
+    "I am the ultimate crushing machine!",
+    "Precision German engineering.",
+    "Honor... and GLORY!",
+    "Respect your elders.",
+    "Let me show you how it's done.",
+    "Ah, this old dog still knows a few tricks!"
+  ],
 
-  "roadhog,tip,ult":["Don't forget about the knockback!", "Can do some damage to grouped enemies."],
-  "roadhog,tip,abilities":["Gotta land the hooks!", "Protect your healers!"],
-  "roadhog,skin,legendary":["Sharkbait oo ah ah", "Big fan of Roadhog's Islander skin"],
-  "roadhog,tank":["Roadhog is a good tank but can still do some damage", "Roadhog is a very strong tank"],
-  "roadhog,emote":["Headbanging is by far the best emote", "Boo!"],
-  "roadhog":["Welcome to the apocalypse.", "Like takin' candy from a baby.", "Got something to say?", "Ha ha ha!", "Hook, line, and sinker!", "Life is pain, so is death.", "Piece of cake.", "Push off.", "Say bacon one more time.", "Violence is usually the answer.", "We're all animals."],
+  "roadhog,tip,ult":[
+    "Don't forget about the knockback!",
+    "Can do some damage to grouped enemies."
+  ],
+  "roadhog,tip,abilities":[
+    "Gotta land the hooks!",
+    "Protect your healers!"
+  ],
+  "roadhog,skin,legendary":[
+    "Sharkbait oo ah ah",
+    "Big fan of Roadhog's Islander skin"
+  ],
+  "roadhog,tank":[
+    "Roadhog is a good tank but can still do some damage",
+    "Roadhog is a very strong tank"
+  ],
+  "roadhog,emote":[
+    "Headbanging is by far the best emote",
+    "Boo!"
+  ],
+  "roadhog":[
+    "Welcome to the apocalypse.",
+    "Like takin' candy from a baby.",
+    "Got something to say?",
+    "Ha ha ha!",
+    "Hook, line, and sinker!",
+    "Life is pain, so is death.",
+    "Piece of cake.",
+    "Push off.",
+    "Say bacon one more time.",
+    "Violence is usually the answer.",
+    "We're all animals."
+  ],
 
-  "winston,tip,ult":["Winston's ult can be hard to use properly, but using the knockback can be helpful", "Enemies in an enclosed space are a good target for Winston's ult"],
-  "winston,tip,abilities":["Winston's shield is strong and can protect a number of players at once", "Winston's jump can be very useful for engaging or disengaging from a fight"],
-  "winston,skin,legendary":["Undersea Winston is a pretty cool skin", "No skin compares to Winston's Yeti skin"],
-  "winston,tank":["Winston is a strong tank who can also do some damage", "Winston's abilities make him a strong tank for dive comps"],
-  "winston,emote":["I don't know if peanut butter or monkey business is a better emote", "That roar is pretty scary"],
-  "winston":["Curious.", "Excuse me.", "Don't get me angry.", "How embarrassing!", "No, I do not want a banana.", "Natural selection!", "No monkey business.", "Did someone say peanut butter?", "Sorry about that!", "The power of science!", "Houston, uhh, we have a problem."],
+  "winston,tip,ult":[
+    "Winston's ult can be hard to use properly, but using the knockback can be helpful",
+    "Enemies in an enclosed space are a good target for Winston's ult"
+  ],
+  "winston,tip,abilities":[
+    "Winston's shield is strong and can protect a number of players at once",
+    "Winston's jump can be very useful for engaging or disengaging from a fight"
+  ],
+  "winston,skin,legendary":[
+    "Undersea Winston is a pretty cool skin",
+    "No skin compares to Winston's Yeti skin"
+  ],
+  "winston,tank":[
+    "Winston is a strong tank who can also do some damage",
+    "Winston's abilities make him a strong tank for dive comps"
+  ],
+  "winston,emote":[
+    "I don't know if peanut butter or monkey business is a better emote",
+    "That roar is pretty scary"
+  ],
+  "winston":[
+    "Curious.",
+    "Excuse me.",
+    "Don't get me angry.",
+    "How embarrassing!",
+    "No, I do not want a banana.",
+    "Natural selection!",
+    "No monkey business.",
+    "Did someone say peanut butter?",
+    "Sorry about that!",
+    "The power of science!",
+    "Houston, uhh, we have a problem."
+  ],
 
   "zarya,tip,ult":[
     "If you use Zarya's ult near an edge you can drop enemies when the ult ends.",
@@ -387,12 +501,38 @@
   "lucio,emote":[],
   "lucio":[],
 
-  "mercy,tip,ult":["The best rez is the one that changes the game, not the highest number", "Mercy's ult charges rather quickly, so don't save it for too long"],
-  "mercy,tip,abilities":["Don't forget to use your gun! It is pretty powerful", "There is a toggle setting that may help!"],
-  "mercy,skin,legendary":["The blackwatch skin is amazing", "Gotta love mercy as the devil!"],
-  "mercy,support":["Mercy is one of the best supports and healers", "Mercy can keep a teammate alive through a lot of damage and the a clutch rez can change the game"],
-  "mercy,emote":["Caduceus is definitely Mercy's best emote", "Mercy always sitting on the job!"],
-  "mercy":["I have my eye on you.", "Need a second opinion?", "I'll send you my consultation fee.", "Doctor's orders.", "How barbaric.", "I'm not a miracle worker. Well... Not always.", "On a scale of one to ten, how is your pain?", "Super!", "Take two, and call me in the morning.", "The doctor is in."],
+  "mercy,tip,ult":[
+    "The best rez is the one that changes the game, not the highest number",
+    "Mercy's ult charges rather quickly, so don't save it for too long"
+  ],
+  "mercy,tip,abilities":[
+    "Don't forget to use your gun! It is pretty powerful",
+    "There is a toggle setting that may help!"
+  ],
+  "mercy,skin,legendary":[
+    "The blackwatch skin is amazing",
+    "Gotta love mercy as the devil!"
+  ],
+  "mercy,support":[
+    "Mercy is one of the best supports and healers",
+    "Mercy can keep a teammate alive through a lot of damage and the a clutch rez can change the game"
+  ],
+  "mercy,emote":[
+    "Caduceus is definitely Mercy's best emote",
+    "Mercy always sitting on the job!"
+  ],
+  "mercy":[
+    "I have my eye on you.",
+    "Need a second opinion?",
+    "I'll send you my consultation fee.",
+    "Doctor's orders.",
+    "How barbaric.",
+    "I'm not a miracle worker. Well... Not always.",
+    "On a scale of one to ten, how is your pain?",
+    "Super!",
+    "Take two, and call me in the morning.",
+    "The doctor is in."
+  ],
 
   "symmetra,tip,ult":[],
   "symmetra,tip,abilities":[],
