@@ -28,12 +28,13 @@ def parse(input):
     for key, value in normalize_list.items():
         tokenized = [token.replace(key, value) for token in tokenized]
     normalized = tokenized
+    lemmatized = [lemmatizer.lemmatize(token) for token in normalized]
     # print(normalized)
     local_keywords = []
     for key in keywords:
-        if key in normalized:
+        if key in lemmatized:
             local_keywords.append(key)
-    return decision_module.generate_response(normalized, local_keywords)
+    return decision_module.generate_response(lemmatized, local_keywords)
 
 
 def run():
