@@ -241,20 +241,69 @@
     "Try to use Bastion's ult when you have the enemy team grouped"
   ],
   "bastion,tip,abilities":[
-    "Don't forget bastion can heal himself with alt fire, making him a very strong defense character",
+    "Don't forget Bastion can heal himself with alt fire, making him a very strong defense character",
     "It is often better to stay in recon mode instead of trying to change to sentry mode when being attacked"
   ],
-  "bastion,skin,legendary":[],
-  "bastion,defense":[],
-  "bastion,emote":[],
-  "bastion":[],
+  "bastion,skin,legendary":[
+    "I like Bastion's Gearbot skin!",
+    "Bastion needs some new unique skins"
+  ],
+  "bastion,defense":[
+    "Bastion is a very strong defense hero who borders on tank with his healing ability",
+    "Bastion is especially strong at protecting the point, but can be hard to set back up after dying"
+  ],
+  "bastion,emote":[
+    "Bastion doing the robot...good one Jeff",
+    "Dizzy is a pretty strong emote!"
+  ],
+  "bastion":[
+    "Doo-woo.",
+    "Beepleleleh.",
+    "Boo boo doo de doo.",
+    "Bweeeeeeeeeeeoh.",
+    "Bwoo chirr chirr chirr chirr chirr chirr chirr",
+    "Dah-dah weeeee!",
+    "Dun dun boop boop",
+    "Dweet! Dweet! Dweet!",
+    "Hee hoo hoo hoo-wee, hee hee hoo hoo hoo-wee.",
+    "Sh-sh-sh dwee!",
+    "Zwee?"
+  ],
 
-  "hanzo,tip,ult":[],
-  "hanzo,tip,abilities":[],
-  "hanzo,skin,legendary":[],
-  "hanzo,defense":[],
-  "hanzo,emote":[],
-  "hanzo":[],
+  "hanzo,tip,ult":[
+    "Hanzo's ult travels across the map but try to catch the enemy in a group",
+    "hanzo's ult can do a lot of damage when the enemy is stuck in a confined space or does not expect the ult"
+  ],
+  "hanzo,tip,abilities":[
+    "Be sure to make use of the scattershot, it can be quite useful",
+    "Knowing where enemies are can be vital to team success so be sure to use it"
+  ],
+  "hanzo,skin,legendary":[
+    "Lone Wolf and Okami are pretty cool skins",
+    "I think we need some strong Hanzo/Genji combo skins",
+    "I hear some new Hanzo skins are in the works...can't wait"
+  ],
+  "hanzo,defense":[
+    "A lot of people bash Hanzo players, but a good Hanzo player can make an immense difference in the game",
+    "He may not have as much map control as other defense players, but Hanzo is still a strong character"
+  ],
+  "hanzo,emote":[
+    "Hanzo needs some emotes that use his bow!",
+    "For now, Beckon is my favorite Hanzo emote"
+  ],
+  "hanzo":[
+    "Expect nothing less.",
+    "Flow like water.",
+    "From one thing, know ten thousand things.",
+    "Hm.",
+    "I do what I must.",
+    "The outcome was never in doubt.",
+    "Never second best!",
+    "Remember this moment.",
+    "Sake!",
+    "I choose you, spirit dragon.",
+    "Step into the dojo."
+  ],
 
   "junkrat,tip,ult":[
     "Your Rip-Tire can climb walls to get behind enemies and surprise them.",
@@ -265,12 +314,18 @@
     "Your mine can be used as a finisher for low health enemies.",
     "Try finding angles where you can stay safe while still zoning off important areas."
   ],
-  "junkrat,skin,legendary":[],
+  "junkrat,skin,legendary":[
+    "Fool is a pretty cool Junkrat skin",
+    "Junkrat needs some cool new skins!"
+  ],
   "junkrat,defense":[
     "Junkrat is really great at zoning off whole areas",
     "A combination of your trap and mine can be deadly for low health enemies trying to flank"
   ],
-  "junkrat,emote":[],
+  "junkrat,emote":[
+    "Junkrat has some of the best emotes in the game!",
+    "Juggling has to be my favorite Junkrat emote"
+  ],
   "junkrat":[
     "Tick-Tock-Tick-Tock-Tick-Tock!",
     "Everything's coming up explodey!",
