@@ -29,7 +29,7 @@ def parse(input):
         tokenized = [token.replace(key, value) for token in tokenized]
     normalized = tokenized
     lemmatized = [lemmatizer.lemmatize(token) for token in normalized]
-    # print(normalized)
+    #print(lemmatized)
     local_keywords = []
     for key in keywords:
         if key in lemmatized:
@@ -39,10 +39,10 @@ def parse(input):
 
 def run():
     while True:
-        user_input = str(input('What would you like to say? >'))
+        user_input = str(input('What would you like to say? > '))
         if user_input == 'exit':
             break
-        print(parse(user_input))
+        print(parse(user_input) + "\n")
 
 
 read_keywords()

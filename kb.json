@@ -2,9 +2,9 @@
   "genji,tip,ult":[
     "Initiate your ult from a distance and Swift Strike in after."
   ],
-  "genji,tip,abilities":[
+  "genji,tip,ability":[
     "When you use Deflect, make sure no enemies are behind you.",
-    "Some abilities can't be blocked by Deflect.",
+    "Some ability can't be blocked by Deflect.",
     "Use the primary Shuriken fire when at a distance, and the secondary fire in close quarters.",
     "Target low health enemies to refresh your Swift Strike"
   ],
@@ -35,7 +35,7 @@
   "mccree,tip,ult":[
     "Use your ult and walk into a Symmetra teleporter to surprise your enemies."
   ],
-  "mccree,tip,abilities":[
+  "mccree,tip,ability":[
     "Fan the hammer when you are close to your enemy",
     "Use your stun grenade and then fan the hammer!"
   ],
@@ -71,7 +71,7 @@
     "Pharah's ult should be combined with another teammate's ult.",
     "Ulting closer to the ground is better."
   ],
-  "pharah,tip,abilities":[
+  "pharah,tip,ability":[
     "Pharah can use knockback against a near wall or the ground to quickly change direction.",
     "If Pharah feathers her jets she can fly for longer."
   ],
@@ -101,19 +101,18 @@
     "Sorry, but I need to jet.",
     "I am the rocket queen."
   ],
-
   "reaper,tip,ult":[
     "Reaper's ult does damage in a sphere, look to drop in on groups of enemies from above."  
   ],
-  "reaper,tip,abilities":[
+  "reaper,tip,ability":[
     "You don't make any sound while in Wraith Form and can use this to flank, be careful about getting caught out of position!",
     "Wraith Form removes any debuffs on Reaper",
     "Shadow Step leaves Reaper very vulnerable, make sure to use it from and to safe spaces."
   ],
   "reaper,skin,legendary":[
-    "El Blanco is a pretty unique skin",
-    "My favorite by far is Blackwatch Reyes",
-    "That Pumpkin skin is pretty cool"
+    "El Blanco is a pretty unique skin.",
+    "My favorite by far is Blackwatch Reyes.",
+    "That Pumpkin skin is pretty cool!"
   ],
   "reaper,attack":[
     "Reaper's shotguns deal a ton of damage up close, but that damage falls off quickly with range"
@@ -139,7 +138,7 @@
     "Soldier's ult can be good for driving a team away, cleaning up a point, or securing kills",
     "Try to combo with others to get the most out of soldier's damage"
   ],
-  "soldier,tip,abilities":[
+  "soldier,tip,ability":[
     "Try to use your heal for yourself but also when teammates need it",
     "The rockets can be strong when used correctly"
   ],
@@ -173,7 +172,7 @@
     "You can use Sombra's ult to initiate a fight.",
     "You can use Sombra's ult to disrupt an enemy engadge."
   ],
-  "sombra,tip,abilities":[
+  "sombra,tip,ability":[
     "Hacking medkits increases your ult charge.",
     "When a teammate uses Sombra's hacked medkit her ult charge increases."
   ],
@@ -206,7 +205,7 @@
     "Tracer's ult does a lot of damage if you stick it on your target.",
     "Tracer's ult charges quickly."
   ],
-  "tracer,tip,abilities":[
+  "tracer,tip,ability":[
     "Use recall to get out of sticky situations.",
     "Use dash to confuse and disorient the enemy."
   ],
@@ -240,7 +239,7 @@
     "Bastion's ult can be difficult to master, but does quite a bit of damage",
     "Try to use Bastion's ult when you have the enemy team grouped"
   ],
-  "bastion,tip,abilities":[
+  "bastion,tip,ability":[
     "Don't forget Bastion can heal himself with alt fire, making him a very strong defense character",
     "It is often better to stay in recon mode instead of trying to change to sentry mode when being attacked"
   ],
@@ -274,7 +273,7 @@
     "Hanzo's ult travels across the map but try to catch the enemy in a group",
     "hanzo's ult can do a lot of damage when the enemy is stuck in a confined space or does not expect the ult"
   ],
-  "hanzo,tip,abilities":[
+  "hanzo,tip,ability":[
     "Be sure to make use of the scattershot, it can be quite useful",
     "Knowing where enemies are can be vital to team success so be sure to use it"
   ],
@@ -310,7 +309,7 @@
     "Try to drop your Rip-Tire down on groups of enemies from above",
     "Your Rip-Tire makes a lot of noise, but will quiet down if it's stationary facing a wall"
   ],
-  "junkrat,tip,abilities":[
+  "junkrat,tip,ability":[
     "Your mine can be used as a finisher for low health enemies.",
     "Try finding angles where you can stay safe while still zoning off important areas."
   ],
@@ -340,7 +339,7 @@
     "Using Mei's ult on a grouped enemy team can be a game changer",
     "It can be difficult to escape Mei's ult if you are at the center, so try to get as many enemies as possible near the middle"
   ],
-  "mei,tip,abilities":[
+  "mei,tip,ability":[
     "Freeze your enemy with your primary fire, then walk up and headshot them with your secondary fire!",
     "The wall is very useful for map control so use it to your advantage!"
   ],
@@ -378,7 +377,7 @@
     "Use your ult when a lot of enemies arrive!",
     "Use your ult when you're about to die!"
   ],
-  "torbjorn,tip,abilities":[
+  "torbjorn,tip,ability":[
     "Use armor at all times, and collect scrap whenever it's safe to do so!",
     "Try and have a turret up at all times!"
   ],
@@ -411,7 +410,7 @@
     "Reveal your enemy locations with your ult.",
     "Use your ult when the enemy is waiting behind walls"
   ],
-  "widowmaker,tip,abilities":[
+  "widowmaker,tip,ability":[
     "Fire venom mines in hidden places so it doesn't get shot",
     "Use your grappling device to fly all over the place!"
   ],
@@ -444,7 +443,7 @@
     "Make sure you time D.Va's ult so that the enemy cannot run away",
     "D.Va's ult can be used to clear out a point if needed"
   ],
-  "dva,tip,abilities":[
+  "dva,tip,ability":[
     "Only use defense matrix when you need to so you have it in an emergency!",
     "Don;t forget about the knockback with the boosters"
   ],
@@ -478,7 +477,7 @@
     "Combine Orisa's ult with other ults for a super deluxe combo!",
     "Supercharger is a very strong ult"
   ],
-  "orisa,tip,abilities":[
+  "orisa,tip,ability":[
     "Fire a shield to block damage whenever you are being shot at!",
     "Fire a charge where you think an enemy will be with Halt! and activate it."
   ],
@@ -515,7 +514,7 @@
     "Make sure your team knows when you are going to use it!",
     "Reinhardt has a strong ultimate if you can time it well and get a group of enemies."
   ],
-  "reinhardt,tip,abilities": [
+  "reinhardt,tip,ability": [
     "Use your shield to protect your healers!",
     "Firestrike whenever possible"
   ],
@@ -545,7 +544,7 @@
     "Don't forget about the knockback!",
     "Can do some damage to grouped enemies."
   ],
-  "roadhog,tip,abilities":[
+  "roadhog,tip,ability":[
     "Gotta land the hooks!",
     "Protect your healers!"
   ],
@@ -579,7 +578,7 @@
     "Winston's ult can be hard to use properly, but using the knockback can be helpful",
     "Enemies in an enclosed space are a good target for Winston's ult"
   ],
-  "winston,tip,abilities":[
+  "winston,tip,ability":[
     "Winston's shield is strong and can protect a number of players at once",
     "Winston's jump can be very useful for engaging or disengaging from a fight"
   ],
@@ -589,7 +588,7 @@
   ],
   "winston,tank":[
     "Winston is a strong tank who can also do some damage",
-    "Winston's abilities make him a strong tank for dive comps"
+    "Winston's ability make him a strong tank for dive comps"
   ],
   "winston,emote":[
     "I don't know if peanut butter or monkey business is a better emote",
@@ -613,7 +612,7 @@
     "If you use Zarya's ult near an edge you can drop enemies when the ult ends.",
     "You can stop a last second objective run by using Zarya's ult."
   ],
-  "zarya,tip,abilities":[
+  "zarya,tip,ability":[
     "Use Zarya's shield to protect teammates that are about to take heavy damage.",
     "You can use Zarya's shield to reset Mei's freeze on an enemy before they get frozen."
   ],
@@ -645,7 +644,7 @@
   "ana,tip,ult":[
     "Stack your ult with another strong one for a super ultra attack."
   ],
-  "ana,tip,abilities":[
+  "ana,tip,ability":[
     "If the enemy is asleep, they won't notice when you shoot them in the head!",
     "Ana's grenade is like a better Jarate."
   ],
@@ -678,7 +677,7 @@
     "Use your ult in a last minute push at the end of a payload run.",
     "Try ulting to defend the payload in the final seconds!"
   ],
-  "lucio,tip,abilities":[
+  "lucio,tip,ability":[
     "Use your secondary fire creatively to send your opponents off the map!",
     "Alternate healing and speed carefully based on the situation."
   ],
@@ -709,7 +708,7 @@
     "The best rez is the one that changes the game, not the highest number",
     "Mercy's ult charges rather quickly, so don't save it for too long"
   ],
-  "mercy,tip,abilities":[
+  "mercy,tip,ability":[
     "Don't forget to use your gun! It is pretty powerful",
     "There is a toggle setting that may help!"
   ],
@@ -741,7 +740,7 @@
   "symmetra,tip,ult":[
     "While her teleporter is amazing, use the shield generator when you need extra defense."
   ],
-  "symmetra,tip,abilities":[
+  "symmetra,tip,ability":[
     "Use the shield in the direction the enemy will be attacking your team from.",
     "Place turrets in hidden areas so they don't get immediately shot down"
   ],
@@ -773,7 +772,7 @@
   "zenyatta,tip,ult":[
     "Zenyatta is completely invulnerable during Transcendence, and the healing on nearby allies will outpace most damage!"
   ],
-  "zenyatta,tip,abilities":[
+  "zenyatta,tip,ability":[
     "Your orbs of Discord and Harmony are incredibly valueable to your team, make sure to have them in use at all times.",
     "Discord greatly increases the damage your opponents take, putting it on tanks can help your team burst them down quickly."
   ],
