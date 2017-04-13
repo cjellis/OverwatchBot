@@ -336,20 +336,42 @@
     "Why so serious"
   ],
 
-  "mei,tip,ult":[],
+  "mei,tip,ult":[
+    "Using Mei's ult on a grouped enemy team can be a game changer",
+    "It can be difficult to escape Mei's ult if you are at the center, so try to get as many enemies as possible near the middle"
+  ],
   "mei,tip,abilities":[
-    "Freeze your enemy with your primary fire, then walk up and headshot them with your secondary fire!"
+    "Freeze your enemy with your primary fire, then walk up and headshot them with your secondary fire!",
+    "The wall is very useful for map control so use it to your advantage!"
   ],
-  "mei,skin,legendary":[],
+  "mei,skin,legendary":[
+    "Firefighter and Yeti Hunter are pretty cool Mei skins",
+    "Mei always gets the cool event skins!"
+  ],
   "mei,defense":[
-  
+    "Mei's wall and ultimate make her a very strong map control character",
+    "Defense is all about controlling the other team which Mei does very well"
   ],
-  "mei,emote":[],
+  "mei,emote":[
+    "I think Yay is my favorite emote",
+    "Mei needs some emotes that use her gun!"
+  ],
   "mei":[
     "In short Mei is Bae.",
     "Who's ready for that Mei buff?",
     "You deserved it for being Mei.",
-    "I thought only bae was Mei."
+    "I thought only bae was Mei.",
+    "Hang in there.",
+    "A-Mei-zing!",
+    "Hey, chill out!",
+    "Zhège shìjiè zhídé wǒmen fènzhàn!",
+    "I hope you learned your lesson.",
+    "Okay!",
+    "Ouch! Are you okay?",
+    "Sorry! Sorry, I'm sorry. Sorry.",
+    "Haha! That was great!",
+    "Yay!",
+    "You have to let it go."
   ],
 
   "torbjorn,tip,ult":[],
