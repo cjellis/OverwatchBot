@@ -495,15 +495,15 @@
     "Orisa kicks dirt like a dog..."
   ],
   "orisa":[
-    "Current outlook? Uncertain. / Current outlook? Concerning. / Current outlook... optimal. / Current outlook... negative." 
-    "Do you need a hug?"
-    "Efi will not be happy about this."
-    "Error 404: Sarcasm module not found."
-    "I'm sorry, but I can't do that."
-    "Medical assistance has been requested."
-    "Would you like my analysis of the situation?"
-    "No parking."
-    "Shine your eyes."
+    "Current outlook? Uncertain. / Current outlook? Concerning. / Current outlook... optimal. / Current outlook... negative." ,
+    "Do you need a hug?",
+    "Efi will not be happy about this.",
+    "Error 404: Sarcasm module not found.",
+    "I'm sorry, but I can't do that.",
+    "Medical assistance has been requested.",
+    "Would you like my analysis of the situation?",
+    "No parking.",
+    "Shine your eyes.",
     "That does not compute."
   ],
 
@@ -650,7 +650,7 @@
     "Ana's grenade is like a better Jarate."
   ],
   "ana,skin,legendary":[
-    "I love her Wadjet skin."
+    "I love her Wadjet skin.",
     "Captain Amari, at your service."
   ],
   "ana,support":[
@@ -662,15 +662,15 @@
     "Tea is a good choice for a sniper."
   ],
   "ana":[
-    "Children, behave."
-    "Everyone dies."
-    "It takes a woman to know it."
-    "Al-aʻdālah nāzlah min fūq."
-    "Mother knows best."
-    "No scope needed."
-    "Need someone to tuck you in?"
-    "What are you thinking?"
-    "Witness me."
+    "Children, behave.",
+    "Everyone dies.",
+    "It takes a woman to know it.",
+    "Al-aʻdālah nāzlah min fūq.",
+    "Mother knows best.",
+    "No scope needed.",
+    "Need someone to tuck you in?",
+    "What are you thinking?",
+    "Witness me.",
     "You know nothing."
   ],
 
@@ -682,7 +682,10 @@
     "Use your secondary fire creatively to send your opponents off the map!",
     "Alternate healing and speed carefully based on the situation."
   ],
-  "lucio,skin,legendary":[],
+  "lucio,skin,legendary":[
+    "I like slapshot better than breakaway",
+    "Lucio's soccer skins are pretty cool"
+  ],
   "lucio,support":[
     "Keep moving and stay around your enemies to heal them."
   ],
@@ -691,14 +694,14 @@
   ],
   "lucio":[
     "Can't stop, won't stop.",
-    "Hit me!"
-    "I'm not hearing that noise."
-    "I'm on top of the world!"
-    "I could do this all day."
-    "Hoo! Jackpot!"
-    "Oh, yeah!"
-    "That's how you get tinnitus." 
-    "Why are you so angry?"
+    "Hit me!",
+    "I'm not hearing that noise.",
+    "I'm on top of the world!",
+    "I could do this all day.",
+    "Hoo! Jackpot!",
+    "Oh, yeah!",
+    "That's how you get tinnitus." ,
+    "Why are you so angry?",
     "You gotta believe."
   ],
 
@@ -774,7 +777,10 @@
     "Your orbs of Discord and Harmony are incredibly valueable to your team, make sure to have them in use at all times.",
     "Discord greatly increases the damage your opponents take, putting it on tanks can help your team burst them down quickly."
   ],
-  "zenyatta,skin,legendary":[],
+  "zenyatta,skin,legendary":[
+    "Ifrit is a pretty cool skin",
+    "My favorite Zen skin has to be Nutcracker"
+  ],
   "zenyatta,support":[
     "In a pinch, the healing Zenyatta can defend himself with well-placed orb snipes",
     "Zenyatta is best played in safe locations where he can regenerate his shields."
