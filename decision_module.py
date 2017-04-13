@@ -1,5 +1,6 @@
 import json
 import random
+from collections import OrderedDict
 
 knowledge = []
 
@@ -17,8 +18,8 @@ def generate_response(tokenized_input, input_keywords):
 
 def read_knowledge():
     with open('kb.json', 'r') as kb:
-        data = json.load(kb)
-        for keywords, responses in data.iteritems():
+        data = json.load(kb, object_pairs_hook=OrderedDict)
+        for keywords, responses in data.items():
             keys = keywords.lower().split(",")
             knowledge.append({"keys": keys, "responses": responses})
 

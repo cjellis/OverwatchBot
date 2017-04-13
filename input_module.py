@@ -20,15 +20,15 @@ def load_normalized():
 def parse(input):
     lemmatizer = WordNetLemmatizer()
     tokenized = nltk.word_tokenize(input)
-    print(tokenized)
+    # print(tokenized)
     tokenized = [token.lower() for token in tokenized]
     normalize_list = load_normalized()
     normalized = []
-    print(normalized)
+    # print(normalized)
     for key, value in normalize_list.items():
         tokenized = [token.replace(key, value) for token in tokenized]
     normalized = tokenized
-    print(normalized)
+    # print(normalized)
     local_keywords = []
     for key in keywords:
         if key in normalized:
