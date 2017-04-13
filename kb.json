@@ -14,8 +14,23 @@
   "genji,attack":[
     "I just found out today that genji has a right click/ alternate fire lol"
   ],
-  "genji,emote":[],
-  "genji":[],
+  "genji,emote":[
+    "Challenge is a pretty sick emote",
+    "I really like the cutting edge emote...nothing else like it"
+  ],
+  "genji":[
+    "A steady blade balances the soul.",
+    "Come on!",
+    "Kuso!",
+    "Kakugo!",
+    "Iza jinjō ni shōbu!",
+    "Measure twice, cut once.",
+    "Waga tamashī wa kinkō o motomeru.",
+    "Mada mada!",
+    "Hah! Simple.",
+    "Yoshi!",
+    "You are only human."
+  ],
 
   "mccree,tip,ult":[
     "Use your ult and walk into a Symmetra teleporter to surprise your enemies."
@@ -31,11 +46,25 @@
   "mccree,attack":[
     "Bad positioning with 76 can be fixed with his movement ability and self-sustain (to a degree).  Bad positioning with McCree is usually game over for you."
   ],
-  "mccree,emote":[],
+  "mccree,emote":[
+    "I wish I could spin a gun like McCree",
+    "Once a joker, always a joker"
+  ],
   "mccree":[
     "*chants* BUFF MCCREE! BUFF MCCREE!",
     "So what we want is *pantsless* McCree...",
-    "###Hey McCree, what time is it?"
+    "###Hey McCree, what time is it?",
+    "Watch and learn.",
+    "You seem familiar. Ain't I killed you before?",
+    "Happens to the best of us.",
+    "I'm the quick. You're the dead.",
+    "I'm your Huckleberry.",
+    "I've got a bullet with your name on it.",
+    "I tried being reasonable, didn't take to it.",
+    "Reach for the sky.",
+    "I'm not good. Not bad. But I sure as hell ain't ugly.",
+    "Wanted: Dead or alive.",
+    "You done?"
   ],
 
   "pharah,tip,ult":[
@@ -81,11 +110,18 @@
     "Wraith Form removes any debuffs on Reaper",
     "Shadow Step leaves Reaper very vulnerable, make sure to use it from and to safe spaces."
   ],
-  "reaper,skin,legendary":[],
+  "reaper,skin,legendary":[
+    "El Blanco is a pretty unique skin",
+    "My favorite by far is Blackwatch Reyes",
+    "That Pumpkin skin is pretty cool"
+  ],
   "reaper,attack":[
     "Reaper's shotguns deal a ton of damage up close, but that damage falls off quickly with range"
   ],
-  "reaper,emote":[],
+  "reaper,emote":[
+    "Reaper needs some better emotes. They are all too tame.",
+    "IF I had to choose one, I would choose slice"
+  ],
   "reaper":[
     "Dead man walking.",
     "Give me a break.",
@@ -99,12 +135,39 @@
     "It's in the refrigerator."
   ],
 
-  "soldier,tip,ult":[],
-  "soldier,tip,abilities":[],
-  "soldier,skin,legendary":[],
-  "soldier,attack":[],
-  "soldier,emote":[],
-  "soldier":[],
+  "soldier,tip,ult":[
+    "Soldier's ult can be good for driving a team away, cleaning up a point, or securing kills",
+    "Try to combo with others to get the most out of soldier's damage"
+  ],
+  "soldier,tip,abilities":[
+    "Try to use your heal for yourself but also when teammates need it",
+    "The rockets can be strong when used correctly"
+  ],
+  "soldier,skin,legendary":[
+    "Commando: 76 is a pretty cool skin",
+    "I think my favorite skin for Soldier is Daredevil: 76"
+  ],
+  "soldier,attack":[
+    "Soldier is a very strong attack and DPS character who can make or break a game",
+    "Soldier is very versatile with his high damage and ability to heal"
+  ],
+  "soldier,emote":[
+    "Soldier needs some cooler emotes!",
+    "My favorite so far is I see you...typical soldier."
+  ],
+  "soldier":[
+    "I've still got it.",
+    "Young punks... Get off my lawn!",
+    "I'm an army of one.",
+    "I didn't start this war... But I'm damn well gonna finish it.",
+    "Not on my watch.",
+    "Old soldiers never die... And they don't fade away...",
+    "Smells like victory...",
+    "That's 'Sir' to you!",
+    "What are YOU looking at?",
+    "I'm the one who does his job. I'm thinking, you're the other one...",
+    "You didn't make the cut."
+  ],
 
   "sombra,tip,ult":[
     "You can use Sombra's ult to initiate a fight.",
