@@ -38,5 +38,5 @@ with open('overwatch.csv', 'r') as f:
 				chars[damagekey.lower()] = [current_char + "'s " + row[0] + " does " + damage + " damage."]
 
 res = open("damageimport.json", "w")
-res.write(json.dumps(chars, indent=4, sort_keys=True))
+res.write(json.dumps(chars, indent=2, sort_keys=True))
 res.close
