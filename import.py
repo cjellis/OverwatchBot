@@ -1,5 +1,6 @@
 import csv
 import json
+import re
 from enum import Enum
 
 class ImportState(Enum):
@@ -25,14 +26,16 @@ with open('overwatch.csv', 'r') as f:
 			if row[0] == '':
 				state = ImportState.STANDBY
 				continue
-			elif len(row[0].split()) > 1:
-				damagekey = current_char + ",damage," + row[0].split()[0]
-				chars[damagekey.lower()] = [current_char + "'s " + row[0] + " does " + row[1].lower() + " damage."]
-				damagekey = current_char + ",damage," + row[0].split()[1]
-				chars[damagekey.lower()] = [current_char + "'s " + row[0] + " does " + row[1].lower() + " damage."]
+
+			damage = 'not do any' if row[1] == '' or row[1] == 'N/A' else row[1].lower()
+			if len(row[0].split()) > 1:
+				damagekey = re.sub('[()]', '', current_char + ",damage," + row[0].split()[0])
+				chars[damagekey.lower()] = [current_char + "'s " + row[0] + " does " + damage + " damage."]
+				damagekey = re.sub('[()]', '', current_char + ",damage," + row[0].split()[1])
+				chars[damagekey.lower()] = [current_char + "'s " + row[0] + " does " + damage + " damage."]
 			else:
-				damagekey = current_char + ",damage," + row[0]
-				chars[damagekey.lower()] = [current_char + "'s " + row[0] + " does " + row[1].lower() + " damage."]
+				damagekey = re.sub('[()]', '', current_char + ",damage," + row[0])
+				chars[damagekey.lower()] = [current_char + "'s " + row[0] + " does " + damage + " damage."]
 
 res = open("damageimport.json", "w")
 res.write(json.dumps(chars, indent=4, sort_keys=True))

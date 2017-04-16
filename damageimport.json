@@ -1,7 +1,4 @@
 {
-    "bastion,damage,(turret)": [
-        "Bastion's Siege (turret) does 15 damage."
-    ],
     "bastion,damage,assault": [
         "Bastion's Assault does 20 damage."
     ],
@@ -10,6 +7,9 @@
     ],
     "bastion,damage,tank": [
         "Bastion's Tank does 190 damage."
+    ],
+    "bastion,damage,turret": [
+        "Bastion's Siege (turret) does 15 damage."
     ],
     "dva,damage,auto": [
         "Dva's Auto does 24 (8x3) damage."
@@ -116,9 +116,6 @@
     "mccree,damage,peacekeeper": [
         "McCree's Peacekeeper does 70 damage."
     ],
-    "mei,damage,(channeled)": [
-        "Mei's Blaster (channeled) does 2.25 / ammo damage."
-    ],
     "mei,damage,alt-fire": [
         "Mei's Alt-Fire does 75 damage."
     ],
@@ -127,6 +124,9 @@
     ],
     "mei,damage,blizzard": [
         "Mei's Blizzard does 97 (3.88 x 25 ticks) damage."
+    ],
+    "mei,damage,channeled": [
+        "Mei's Blaster (channeled) does 2.25 / ammo damage."
     ],
     "mei,damage,iceblock": [
         "Mei's Iceblock does 150 heal damage."
@@ -138,10 +138,10 @@
         "Mercy's Caduceus Blaster does 20 damage."
     ],
     "mercy,damage,caduceus": [
-        "Mercy's Caduceus Staff does  damage."
+        "Mercy's Caduceus Staff does not do any damage."
     ],
     "mercy,damage,staff": [
-        "Mercy's Caduceus Staff does  damage."
+        "Mercy's Caduceus Staff does not do any damage."
     ],
     "pharah,damage,barrage": [
         "Pharah's Barrage does ~40/blast, total = 2500+ damage."
@@ -258,7 +258,7 @@
         "Symmetra's Charged Shot does 25-125 damage."
     ],
     "symmetra,damage,teleporter": [
-        "Symmetra's Teleporter does  damage."
+        "Symmetra's Teleporter does not do any damage."
     ],
     "symmetra,damage,turret": [
         "Symmetra's Sentry Turret does 3 dmg/tick damage."
@@ -348,10 +348,10 @@
         "Zenyatta's Charged Orbs does 175 (35x5) damage."
     ],
     "zenyatta,damage,of": [
-        "Zenyatta's Orb of Discord does n/a damage."
+        "Zenyatta's Orb of Discord does not do any damage."
     ],
     "zenyatta,damage,orb": [
-        "Zenyatta's Orb of Discord does n/a damage."
+        "Zenyatta's Orb of Discord does not do any damage."
     ],
     "zenyatta,damage,orbs": [
         "Zenyatta's Charged Orbs does 175 (35x5) damage."
