@@ -25,7 +25,14 @@ with open('overwatch.csv', 'r') as f:
 			if row[0] == '':
 				state = ImportState.STANDBY
 				continue
-			chars[current_char + ",damage," + row[0]] = [current_char + "'s " + row[0] + " does " + row[1] + " damage."]
+			elif len(row[0].split()) > 1:
+				damagekey = current_char + ",damage," + row[0].split()[0]
+				chars[damagekey.lower()] = [current_char + "'s " + row[0] + " does " + row[1].lower() + " damage."]
+				damagekey = current_char + ",damage," + row[0].split()[1]
+				chars[damagekey.lower()] = [current_char + "'s " + row[0] + " does " + row[1].lower() + " damage."]
+			else:
+				damagekey = current_char + ",damage," + row[0]
+				chars[damagekey.lower()] = [current_char + "'s " + row[0] + " does " + row[1].lower() + " damage."]
 
 res = open("damageimport.json", "w")
 res.write(json.dumps(chars, indent=4, sort_keys=True))

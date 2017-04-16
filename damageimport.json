@@ -1,230 +1,359 @@
 {
-    "Bastion,damage,Assault": [
-        "Bastion's Assault does 20 damage."
-    ],
-    "Bastion,damage,Siege (turret)": [
+    "bastion,damage,(turret)": [
         "Bastion's Siege (turret) does 15 damage."
     ],
-    "Bastion,damage,Tank": [
+    "bastion,damage,assault": [
+        "Bastion's Assault does 20 damage."
+    ],
+    "bastion,damage,siege": [
+        "Bastion's Siege (turret) does 15 damage."
+    ],
+    "bastion,damage,tank": [
         "Bastion's Tank does 190 damage."
     ],
-    "Dva,damage,Auto": [
+    "dva,damage,auto": [
         "Dva's Auto does 24 (8x3) damage."
     ],
-    "Dva,damage,Jet Booster": [
+    "dva,damage,booster": [
         "Dva's Jet Booster does 25 damage."
     ],
-    "Dva,damage,Self-Destruct": [
+    "dva,damage,jet": [
+        "Dva's Jet Booster does 25 damage."
+    ],
+    "dva,damage,self-destruct": [
         "Dva's Self-Destruct does ~100-1000 damage."
     ],
-    "Dva,damage,Sidearm": [
+    "dva,damage,sidearm": [
         "Dva's Sidearm does 14 damage."
     ],
-    "Genji,damage,Bleed": [
-        "Genji's Bleed does 29 damage."
-    ],
-    "Genji,damage,Dragon blade": [
+    "genji,damage,blade": [
         "Genji's Dragon blade does 120 damage."
     ],
-    "Genji,damage,Shuriken": [
+    "genji,damage,bleed": [
+        "Genji's Bleed does 29 damage."
+    ],
+    "genji,damage,dragon": [
+        "Genji's Dragon blade does 120 damage."
+    ],
+    "genji,damage,shuriken": [
         "Genji's Shuriken does 105 (35x3) damage."
     ],
-    "Genji,damage,Swift Strike (Impact)": [
+    "genji,damage,strike": [
         "Genji's Swift Strike (Impact) does 30 damage."
     ],
-    "Hanzo,damage,Dragonstrike": [
-        "Hanzo's Dragonstrike does ~43/tick damage."
+    "genji,damage,swift": [
+        "Genji's Swift Strike (Impact) does 30 damage."
     ],
-    "Hanzo,damage,Scatter Arrow": [
-        "Hanzo's Scatter Arrow does Up to 450 damage."
+    "hanzo,damage,arrow": [
+        "Hanzo's Scatter Arrow does up to 450 damage."
     ],
-    "Hanzo,damage,Sonic Arrow": [
-        "Hanzo's Sonic Arrow does 23-125 damage."
-    ],
-    "Hanzo,damage,Storm Bow": [
+    "hanzo,damage,bow": [
         "Hanzo's Storm Bow does 23-125 damage."
     ],
-    "Junkrat,damage,Concussion Mine": [
+    "hanzo,damage,dragonstrike": [
+        "Hanzo's Dragonstrike does ~43/tick damage."
+    ],
+    "hanzo,damage,scatter": [
+        "Hanzo's Scatter Arrow does up to 450 damage."
+    ],
+    "hanzo,damage,sonic": [
+        "Hanzo's Sonic Arrow does 23-125 damage."
+    ],
+    "hanzo,damage,storm": [
+        "Hanzo's Storm Bow does 23-125 damage."
+    ],
+    "junkrat,damage,concussion": [
         "Junkrat's Concussion Mine does 120 damage."
     ],
-    "Junkrat,damage,Frag Launcher": [
-        "Junkrat's Frag Launcher does 120 (40 v self) damage."
-    ],
-    "Junkrat,damage,Frag Splash": [
+    "junkrat,damage,frag": [
         "Junkrat's Frag Splash does 40-80 damage."
     ],
-    "Junkrat,damage,Rip Tire": [
+    "junkrat,damage,launcher": [
+        "Junkrat's Frag Launcher does 120 (40 v self) damage."
+    ],
+    "junkrat,damage,mayhem": [
+        "Junkrat's Total Mayhem does up to 300 damage."
+    ],
+    "junkrat,damage,mine": [
+        "Junkrat's Concussion Mine does 120 damage."
+    ],
+    "junkrat,damage,rip": [
         "Junkrat's Rip Tire does 600 damage."
     ],
-    "Junkrat,damage,Steel Trap": [
+    "junkrat,damage,splash": [
+        "Junkrat's Frag Splash does 40-80 damage."
+    ],
+    "junkrat,damage,steel": [
         "Junkrat's Steel Trap does 80 damage."
     ],
-    "Junkrat,damage,Total Mayhem": [
-        "Junkrat's Total Mayhem does Up to 300 damage."
+    "junkrat,damage,tire": [
+        "Junkrat's Rip Tire does 600 damage."
     ],
-    "Lucio,damage,Knockback": [
-        "Lucio's Knockback does 25 damage."
+    "junkrat,damage,total": [
+        "Junkrat's Total Mayhem does up to 300 damage."
     ],
-    "Lucio,damage,Sonic Amplifier": [
+    "junkrat,damage,trap": [
+        "Junkrat's Steel Trap does 80 damage."
+    ],
+    "lucio,damage,amplifier": [
         "Lucio's Sonic Amplifier does 80 (20x4) damage."
     ],
-    "McCree,damage,Deadeye": [
-        "McCree's Deadeye does 100-OHKO; 50% = ~300 damage."
+    "lucio,damage,knockback": [
+        "Lucio's Knockback does 25 damage."
     ],
-    "McCree,damage,Fan Fire": [
+    "lucio,damage,sonic": [
+        "Lucio's Sonic Amplifier does 80 (20x4) damage."
+    ],
+    "mccree,damage,deadeye": [
+        "McCree's Deadeye does 100-ohko; 50% = ~300 damage."
+    ],
+    "mccree,damage,fan": [
         "McCree's Fan Fire does 420 (70x6) damage."
     ],
-    "McCree,damage,Peacekeeper": [
+    "mccree,damage,fire": [
+        "McCree's Fan Fire does 420 (70x6) damage."
+    ],
+    "mccree,damage,peacekeeper": [
         "McCree's Peacekeeper does 70 damage."
     ],
-    "Mei,damage,Alt-Fire": [
-        "Mei's Alt-Fire does 75 damage."
-    ],
-    "Mei,damage,Blaster (channeled)": [
+    "mei,damage,(channeled)": [
         "Mei's Blaster (channeled) does 2.25 / ammo damage."
     ],
-    "Mei,damage,Blizzard": [
+    "mei,damage,alt-fire": [
+        "Mei's Alt-Fire does 75 damage."
+    ],
+    "mei,damage,blaster": [
+        "Mei's Blaster (channeled) does 2.25 / ammo damage."
+    ],
+    "mei,damage,blizzard": [
         "Mei's Blizzard does 97 (3.88 x 25 ticks) damage."
     ],
-    "Mei,damage,Iceblock": [
-        "Mei's Iceblock does 150 Heal damage."
+    "mei,damage,iceblock": [
+        "Mei's Iceblock does 150 heal damage."
     ],
-    "Mei,damage,Icewall": [
+    "mei,damage,icewall": [
         "Mei's Icewall does 500 health/pillar damage."
     ],
-    "Mercy,damage,Caduceus Blaster": [
+    "mercy,damage,blaster": [
         "Mercy's Caduceus Blaster does 20 damage."
     ],
-    "Mercy,damage,Caduceus Staff": [
+    "mercy,damage,caduceus": [
         "Mercy's Caduceus Staff does  damage."
     ],
-    "Pharah,damage,Barrage": [
-        "Pharah's Barrage does ~40/blast, Total = 2500+ damage."
+    "mercy,damage,staff": [
+        "Mercy's Caduceus Staff does  damage."
     ],
-    "Pharah,damage,Concussive Blast": [
+    "pharah,damage,barrage": [
+        "Pharah's Barrage does ~40/blast, total = 2500+ damage."
+    ],
+    "pharah,damage,blast": [
         "Pharah's Concussive Blast does 1 damage."
     ],
-    "Pharah,damage,Rocket Launcher": [
+    "pharah,damage,concussive": [
+        "Pharah's Concussive Blast does 1 damage."
+    ],
+    "pharah,damage,launcher": [
         "Pharah's Rocket Launcher does 120 damage."
     ],
-    "Pharah,damage,Splash": [
+    "pharah,damage,rocket": [
+        "Pharah's Rocket Launcher does 120 damage."
+    ],
+    "pharah,damage,splash": [
         "Pharah's Splash does 13-80 (up to 40 v self) damage."
     ],
-    "Reaper,damage,Death Blossom": [
+    "reaper,damage,blossom": [
         "Reaper's Death Blossom does 510 (~35x2/sec) damage."
     ],
-    "Reaper,damage,Hellfire Shotgun": [
-        "Reaper's Hellfire Shotgun does Up to 140 damage."
+    "reaper,damage,death": [
+        "Reaper's Death Blossom does 510 (~35x2/sec) damage."
     ],
-    "Reinhardt,damage,Charge impact": [
+    "reaper,damage,hellfire": [
+        "Reaper's Hellfire Shotgun does up to 140 damage."
+    ],
+    "reaper,damage,shotgun": [
+        "Reaper's Hellfire Shotgun does up to 140 damage."
+    ],
+    "reinhardt,damage,charge": [
         "Reinhardt's Charge impact does 300 damage."
     ],
-    "Reinhardt,damage,Charge initial hit": [
-        "Reinhardt's Charge initial hit does 50 damage."
-    ],
-    "Reinhardt,damage,Earthshatter": [
+    "reinhardt,damage,earthshatter": [
         "Reinhardt's Earthshatter does 100 damage."
     ],
-    "Reinhardt,damage,Fire Strike": [
+    "reinhardt,damage,fire": [
         "Reinhardt's Fire Strike does 100 damage."
     ],
-    "Reinhardt,damage,Rocket Hammer": [
+    "reinhardt,damage,hammer": [
         "Reinhardt's Rocket Hammer does 75 damage."
     ],
-    "Roadhog,damage,Chain Hook": [
+    "reinhardt,damage,impact": [
+        "Reinhardt's Charge impact does 300 damage."
+    ],
+    "reinhardt,damage,initial": [
+        "Reinhardt's Charge initial hit does 50 damage."
+    ],
+    "reinhardt,damage,rocket": [
+        "Reinhardt's Rocket Hammer does 75 damage."
+    ],
+    "reinhardt,damage,strike": [
+        "Reinhardt's Fire Strike does 100 damage."
+    ],
+    "roadhog,damage,chain": [
         "Roadhog's Chain Hook does 30 damage."
     ],
-    "Roadhog,damage,Mid Range Shot (Impact)": [
-        "Roadhog's Mid Range Shot (Impact) does 50 damage."
+    "roadhog,damage,gun": [
+        "Roadhog's Scrap Gun does up to 225 damage."
     ],
-    "Roadhog,damage,Mid Range Shot (Spread)": [
-        "Roadhog's Mid Range Shot (Spread) does Up to 225 damage."
+    "roadhog,damage,hog": [
+        "Roadhog's Whole Hog does theoretically 2500+ damage."
     ],
-    "Roadhog,damage,Scrap Gun": [
-        "Roadhog's Scrap Gun does Up to 225 damage."
+    "roadhog,damage,hook": [
+        "Roadhog's Chain Hook does 30 damage."
     ],
-    "Roadhog,damage,Whole Hog": [
-        "Roadhog's Whole Hog does Theoretically 2500+ damage."
+    "roadhog,damage,mid": [
+        "Roadhog's Mid Range Shot (Spread) does up to 225 damage."
     ],
-    "Soldier: 76,damage,Heavy Pulse Rifle": [
+    "roadhog,damage,range": [
+        "Roadhog's Mid Range Shot (Spread) does up to 225 damage."
+    ],
+    "roadhog,damage,scrap": [
+        "Roadhog's Scrap Gun does up to 225 damage."
+    ],
+    "roadhog,damage,whole": [
+        "Roadhog's Whole Hog does theoretically 2500+ damage."
+    ],
+    "soldier: 76,damage,heavy": [
         "Soldier: 76's Heavy Pulse Rifle does 17 damage."
     ],
-    "Soldier: 76,damage,Helix Rockets": [
+    "soldier: 76,damage,helix": [
         "Soldier: 76's Helix Rockets does 120 damage."
     ],
-    "Soldier: 76,damage,Splash": [
+    "soldier: 76,damage,pulse": [
+        "Soldier: 76's Heavy Pulse Rifle does 17 damage."
+    ],
+    "soldier: 76,damage,rockets": [
+        "Soldier: 76's Helix Rockets does 120 damage."
+    ],
+    "soldier: 76,damage,splash": [
         "Soldier: 76's Splash does 13-80 (up to 40 v self) damage."
     ],
-    "Symmetra,damage,Average over 6s": [
-        "Symmetra's Average over 6s does 13.5 dmg/shot or 100 DPS damage."
+    "symmetra,damage,average": [
+        "Symmetra's Average over 6s does 13.5 dmg/shot or 100 dps damage."
     ],
-    "Symmetra,damage,Charged Shot": [
+    "symmetra,damage,charged": [
         "Symmetra's Charged Shot does 25-125 damage."
     ],
-    "Symmetra,damage,Photon Projector": [
+    "symmetra,damage,over": [
+        "Symmetra's Average over 6s does 13.5 dmg/shot or 100 dps damage."
+    ],
+    "symmetra,damage,photon": [
         "Symmetra's Photon Projector does 7 damage."
     ],
-    "Symmetra,damage,Sentry Turret": [
+    "symmetra,damage,projector": [
+        "Symmetra's Photon Projector does 7 damage."
+    ],
+    "symmetra,damage,sentry": [
         "Symmetra's Sentry Turret does 3 dmg/tick damage."
     ],
-    "Symmetra,damage,Teleporter": [
+    "symmetra,damage,shot": [
+        "Symmetra's Charged Shot does 25-125 damage."
+    ],
+    "symmetra,damage,teleporter": [
         "Symmetra's Teleporter does  damage."
     ],
-    "Torbjorn,damage,Alt Fire": [
+    "symmetra,damage,turret": [
+        "Symmetra's Sentry Turret does 3 dmg/tick damage."
+    ],
+    "torbjorn,damage,alt": [
         "Torbjorn's Alt Fire does 24-100 damage."
     ],
-    "Torbjorn,damage,Forge Hammer": [
+    "torbjorn,damage,fire": [
+        "Torbjorn's Alt Fire does 24-100 damage."
+    ],
+    "torbjorn,damage,forge": [
         "Torbjorn's Forge Hammer does 75 damage."
     ],
-    "Torbjorn,damage,L3 Turret MIssiles": [
-        "Torbjorn's L3 Turret MIssiles does ~70 damage."
-    ],
-    "Torbjorn,damage,Rivet Gun": [
+    "torbjorn,damage,gun": [
         "Torbjorn's Rivet Gun does 55 damage."
     ],
-    "Torbjorn,damage,Turret": [
-        "Torbjorn's Turret does 14 damage."
+    "torbjorn,damage,hammer": [
+        "Torbjorn's Forge Hammer does 75 damage."
     ],
-    "Tracer,damage,Pulse Bomb": [
+    "torbjorn,damage,l3": [
+        "Torbjorn's L3 Turret MIssiles does ~70 damage."
+    ],
+    "torbjorn,damage,rivet": [
+        "Torbjorn's Rivet Gun does 55 damage."
+    ],
+    "torbjorn,damage,turret": [
+        "Torbjorn's L3 Turret MIssiles does ~70 damage."
+    ],
+    "tracer,damage,bomb": [
         "Tracer's Pulse Bomb does 450 damage."
     ],
-    "Tracer,damage,Pulse Pistol": [
+    "tracer,damage,pistol": [
         "Tracer's Pulse Pistol does 6 damage."
     ],
-    "Widowmaker,damage,Widow's Kiss (auto)": [
-        "Widowmaker's Widow's Kiss (auto) does 13 damage."
+    "tracer,damage,pulse": [
+        "Tracer's Pulse Bomb does 450 damage."
     ],
-    "Widowmaker,damage,Widow's Kiss (scoped)": [
+    "widowmaker,damage,kiss": [
         "Widowmaker's Widow's Kiss (scoped) does 20-80-150 damage."
     ],
-    "Winston,damage,100 rounds": [
+    "widowmaker,damage,widow's": [
+        "Widowmaker's Widow's Kiss (scoped) does 20-80-150 damage."
+    ],
+    "winston,damage,100": [
         "Winston's 100 rounds does 294 damage."
     ],
-    "Winston,damage,Jump Pack": [
-        "Winston's Jump Pack does 15-50 damage."
-    ],
-    "Winston,damage,Primal Rage": [
-        "Winston's Primal Rage does 40 damage."
-    ],
-    "Winston,damage,Tesla Cannon": [
+    "winston,damage,cannon": [
         "Winston's Tesla Cannon does ~3/tick damage."
     ],
-    "Zarya,damage,Explosive Charge": [
-        "Zarya's Explosive Charge does 37 damage."
+    "winston,damage,jump": [
+        "Winston's Jump Pack does 15-50 damage."
     ],
-    "Zarya,damage,Graviton Surge": [
-        "Zarya's Graviton Surge does 22 (2x11) damage."
+    "winston,damage,pack": [
+        "Winston's Jump Pack does 15-50 damage."
     ],
-    "Zarya,damage,Particle Cannon": [
+    "winston,damage,primal": [
+        "Winston's Primal Rage does 40 damage."
+    ],
+    "winston,damage,rage": [
+        "Winston's Primal Rage does 40 damage."
+    ],
+    "winston,damage,rounds": [
+        "Winston's 100 rounds does 294 damage."
+    ],
+    "winston,damage,tesla": [
+        "Winston's Tesla Cannon does ~3/tick damage."
+    ],
+    "zarya,damage,cannon": [
         "Zarya's Particle Cannon does ~3/unit of ammo damage."
     ],
-    "Zenyatta,damage,Charged Orbs": [
+    "zarya,damage,charge": [
+        "Zarya's Explosive Charge does 37 damage."
+    ],
+    "zarya,damage,explosive": [
+        "Zarya's Explosive Charge does 37 damage."
+    ],
+    "zarya,damage,graviton": [
+        "Zarya's Graviton Surge does 22 (2x11) damage."
+    ],
+    "zarya,damage,particle": [
+        "Zarya's Particle Cannon does ~3/unit of ammo damage."
+    ],
+    "zarya,damage,surge": [
+        "Zarya's Graviton Surge does 22 (2x11) damage."
+    ],
+    "zenyatta,damage,charged": [
         "Zenyatta's Charged Orbs does 175 (35x5) damage."
     ],
-    "Zenyatta,damage,Orb of Destruction": [
-        "Zenyatta's Orb of Destruction does 45 damage."
+    "zenyatta,damage,of": [
+        "Zenyatta's Orb of Discord does n/a damage."
     ],
-    "Zenyatta,damage,Orb of Discord": [
-        "Zenyatta's Orb of Discord does N/A damage."
+    "zenyatta,damage,orb": [
+        "Zenyatta's Orb of Discord does n/a damage."
+    ],
+    "zenyatta,damage,orbs": [
+        "Zenyatta's Charged Orbs does 175 (35x5) damage."
     ]
 }
