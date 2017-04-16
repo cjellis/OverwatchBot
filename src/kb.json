@@ -1233,7 +1233,30 @@
     "Are you in need of personal training?",
     "No mercy."
   ],
-
+  "ana,damage,biotic,grenade":[
+    "Ana's Biotic Grenade does 60 damage."
+  ],
+  "ana,damage,biotic,rifle":[
+    "Ana's Biotic Rifle does 60 damage."
+  ],
+  "ana,damage,boost":[
+    "Ana's Nano Boost does +50% damage."
+  ],
+  "ana,damage,dart":[
+    "Ana's Sleep Dart does 5 damage."
+  ],
+  "ana,damage,grenade":[
+    "Ana's Biotic Grenade does 60 damage."
+  ],
+  "ana,damage,nano":[
+    "Ana's Nano Boost does +50% damage."
+  ],
+  "ana,damage,rifle":[
+    "Ana's Biotic Rifle does 60 damage."
+  ],
+  "ana,damage,sleep":[
+    "Ana's Sleep Dart does 5 damage."
+  ],
   "ana,tip,ult":[
     "Stack your ult with another strong one for a super ultra attack."
   ],
