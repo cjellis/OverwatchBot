@@ -308,7 +308,27 @@
     "I'm the one who does his job. I'm thinking, you're the other one...",
     "You didn't make the cut."
   ],
-
+  "sombra,damage,camo":[
+    "Sombra's Thermoptic Camo does not do any damage."
+  ],
+  "sombra,damage,emp":[
+    "Sombra's EMP does not do any damage."
+  ],
+  "sombra,damage,hack":[
+    "Sombra's Hack does not do any damage."
+  ],
+  "sombra,damage,machine":[
+    "Sombra's Machine Pistol does 2.4-8 damage."
+  ],
+  "sombra,damage,pistol":[
+    "Sombra's Machine Pistol does 2.4-8 damage."
+  ],
+  "sombra,damage,thermoptic":[
+    "Sombra's Thermoptic Camo does not do any damage."
+  ],
+  "sombra,damage,translocator":[
+    "Sombra's Translocator does not do any damage."
+  ],
   "sombra,tip,ult":[
     "You can use Sombra's ult to initiate a fight.",
     "You can use Sombra's ult to disrupt an enemy engadge."
@@ -866,7 +886,30 @@
     "No hacks required.",
     "Winkyface."
   ],
-
+  "orisa,damage,barrier":[
+    "Orisa's Protective Barrier does not do damage."
+  ],
+  "orisa,damage,charger":[
+    "Orisa's Supercharger does +50% damage."
+  ],
+  "orisa,damage,driver":[
+    "Orisa's Fusion Driver does 12 damage."
+  ],
+  "orisa,damage,fortify":[
+    "Orisa's Fortify does not do damage."
+  ],
+  "orisa,damage,fusion":[
+    "Orisa's Fusion Driver does 12 damage."
+  ],
+  "orisa,damage,halt":[
+    "Orisa's Halt! does not do damage."
+  ],
+  "orisa,damage,protective":[
+    "Orisa's Protective Barrier does not do damage."
+  ],
+  "orisa,damage,supercharger":[
+    "Orisa's Supercharger does +50% damage."
+  ],
   "orisa,tip,ult":[
     "Combine Orisa's ult with other ults for a super deluxe combo!",
     "Supercharger is a very strong ult"
