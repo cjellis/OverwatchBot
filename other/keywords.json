@@ -1,6 +1,6 @@
 [
   "genji",
-  "mccree", 
+  "mccree",
   "pharah",
   "reaper",
   "soldier",
@@ -65,10 +65,12 @@
   "healer",
   "support",
   "defense",
+  "attack",
 
 
   "ult",
   "ability",
+  "damage",
 
   "epic",
   "rare",
@@ -79,6 +81,11 @@
 
 
   "tip",
-
-  "anchor"
+  "anchor",
+  "opinion",
+  "thoughts",
+  "pro",
+  "meta",
+  "character",
+  "main"
 ]

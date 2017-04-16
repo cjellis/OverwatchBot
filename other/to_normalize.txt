@@ -23,3 +23,6 @@ rein -> reinhardt
 
 notes:
 maybe make default responses for a character be their voice lines
+
+
+hanjo, gengu
