@@ -60,3 +60,6 @@ def main():
             id_file.write(comment.id+"\n")
 
             action(comment)
+
+if __name__ == "__main__":
+    main()
