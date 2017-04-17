@@ -38,16 +38,20 @@ def parse(input):
     """
     # all input to lowercase
     input = input.lower()
-    # normalize the input
-    for key, value in normalize_list.items():
-        if key in input:
-            input = input.replace(key, value)
 
     # tokenize the input
     tokenized = nltk.word_tokenize(input)
+
+    normalized = []
+    # normalize the input
+    for token in tokenized:
+        if token in normalize_list.keys():
+            normalized.append(normalize_list[token])
+        else:
+            normalized.append(token)
     # lemmatize the words
     lemmatizer = WordNetLemmatizer()
-    lemmatized = [lemmatizer.lemmatize(token) for token in tokenized]
+    lemmatized = [lemmatizer.lemmatize(word) for word in normalized]
 
     # find keywords
     local_keywords = []
