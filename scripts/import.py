@@ -2,12 +2,15 @@ import csv
 import json
 import re
 from enum import Enum
+#################################################
+
 
 class ImportState(Enum):
 	INIT = 1
 	CHAR = 2
 	STANDBY = 3
 
+# Open csv file
 with open('overwatch.csv', 'r') as f:
 	reader = csv.reader(f)
 	state = ImportState.INIT
@@ -15,6 +18,7 @@ with open('overwatch.csv', 'r') as f:
 	chars = {}
 	current_char = ""
 
+    # Parse each row to get the damage for the character and weapon/ability
 	for row in reader:
 		if state == ImportState.INIT:
 			state = ImportState.STANDBY
@@ -37,6 +41,7 @@ with open('overwatch.csv', 'r') as f:
 				damagekey = re.sub('[()]', '', current_char + ",damage," + row[0])
 				chars[damagekey.lower()] = [current_char + "'s " + row[0] + " does " + damage + " damage."]
 
+# Write the response sentences to a file
 res = open("damageimport.json", "w")
 res.write(json.dumps(chars, indent=2, sort_keys=True))
-res.close
+res.close()

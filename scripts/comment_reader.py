@@ -1,7 +1,7 @@
 import json
 import praw
 from praw.models import MoreComments
-
+#################################################
 characters = [
     'GENJI',
     'MCCREE',
@@ -58,13 +58,15 @@ char_obj = {
     'symmetra': [],
     'zenyatta': []
 }
-
+#################################################
+# Connect to Reddit and overwatch subreddit
 reddit = praw.Reddit(client_id='',
     client_secret='',
     user_agent='python:chatbot:0.0.1 (by /u/golf1052)')
 
 overwatch = reddit.subreddit('overwatch')
 
+# Go through the comments, first 100 on the hot page
 for submission in overwatch.hot(limit=100):
     all_comments = submission.comments.list()
     for comment in all_comments:
@@ -74,6 +76,7 @@ for submission in overwatch.hot(limit=100):
         for line in split:
             for character in characters:
                 if character in line.upper():
+                    # Map comment to characters involved with it
                     try:
                         if character in ['SOLDIER', '76']:
                             char_obj['soldier: 76'].append(line.strip())
@@ -86,4 +89,5 @@ for submission in overwatch.hot(limit=100):
                     except:
                         pass
 
+# Prints out the mapping from character to all comments involving it
 print json.dumps(char_obj, indent=4, separators=(',', ': '))
