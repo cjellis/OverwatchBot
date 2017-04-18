@@ -9,11 +9,11 @@ normalize_list = {}
 
 
 def read_keywords():
-    global keywords
     """
     Reads in the keyword file and stores them
     :return: 
     """
+    global keywords
     with open('keywords_in_kb.json', 'r') as keys:
         data = json.load(keys)
         for key in data:
@@ -21,11 +21,11 @@ def read_keywords():
 
 
 def load_normalized():
-    global normalize_list
     """
     Reads in the file of normalizations and stores them
     :return: 
     """
+    global normalize_list
     with open('normalized.json', 'r') as n:
         normalize_list = json.load(n)
 

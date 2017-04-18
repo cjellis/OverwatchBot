@@ -886,6 +886,7 @@
     "No hacks required.",
     "Winkyface."
   ],
+
   "orisa,damage,barrier":[
     "Orisa's Protective Barrier does not do damage."
   ],
@@ -1233,6 +1234,7 @@
     "Are you in need of personal training?",
     "No mercy."
   ],
+
   "ana,damage,biotic,grenade":[
     "Ana's Biotic Grenade does 60 damage."
   ],
